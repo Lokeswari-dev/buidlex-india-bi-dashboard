@@ -1,0 +1,1001 @@
+OrderDate,CustomerName,MaterialName,Category,Quantity,UnitPrice,TotalRevenue,Location,DeliveryStatus,PaymentStatus
+2025-09-24,BuildCo_885,Cement,Binding,94,389.03,36568.82,Hyderabad,In Transit,Partial
+2025-05-16,BuildCo_277,TMT Steel,Reinforcement,8,49037.53,392300.24,Pune,Delivered,Pending
+2026-01-22,BuildCo_469,TMT Steel,Reinforcement,44,54108.41,2380770.04,Pune,Delivered,Pending
+2025-07-28,BuildCo_400,Sand,Aggregates,372,2207.82,821309.04,Hyderabad,Pending,Paid
+2025-05-20,BuildCo_467,Bricks,Masonry,10557,7.49,79071.93,Vizag,In Transit,Paid
+2025-08-22,BuildCo_801,TMT Steel,Reinforcement,12,50006.4,600076.8,Vizag,Pending,Partial
+2025-05-08,BuildCo_144,Concrete,Mixture,87,3513.58,305681.46,Bangalore,Delivered,Paid
+2025-11-01,BuildCo_334,Concrete,Mixture,297,4626.15,1373966.55,Hyderabad,Cancelled,Paid
+2025-04-27,BuildCo_553,Sand,Aggregates,59,1690.25,99724.75,Hyderabad,In Transit,Pending
+2025-07-06,BuildCo_578,Concrete,Mixture,139,4423.09,614809.51,Vizag,Pending,Pending
+2026-01-22,BuildCo_100,Sand,Aggregates,62,1971.05,122205.1,Mumbai,Delivered,Pending
+2026-02-17,BuildCo_883,TMT Steel,Reinforcement,14,50805.41,711275.74,Bangalore,Pending,Pending
+2025-04-18,BuildCo_647,Bricks,Masonry,7541,9.28,69980.48,Vizag,Pending,Paid
+2026-01-08,BuildCo_382,TMT Steel,Reinforcement,6,47681.98,286091.88,Pune,Delivered,Pending
+2025-05-02,BuildCo_950,Cement,Binding,485,409.17,198447.45,Bangalore,Cancelled,Paid
+2025-06-26,BuildCo_264,Sand,Aggregates,313,1832.28,573503.64,Hyderabad,In Transit,Partial
+2025-11-02,BuildCo_350,Sand,Aggregates,331,2409.92,797683.52,Vizag,In Transit,Paid
+2026-03-13,BuildCo_915,TMT Steel,Reinforcement,47,53956.39,2535950.33,Bangalore,Delivered,Paid
+2026-02-13,BuildCo_995,TMT Steel,Reinforcement,37,54171.55,2004347.35,Vizag,Delivered,Partial
+2026-02-04,BuildCo_799,TMT Steel,Reinforcement,17,45395.93,771730.81,Mumbai,Pending,Paid
+2025-12-18,BuildCo_962,Sand,Aggregates,462,1978.71,914164.02,Hyderabad,Delivered,Partial
+2026-02-17,BuildCo_249,Bricks,Masonry,13003,11.47,149144.41,Hyderabad,Pending,Paid
+2025-11-25,BuildCo_251,Concrete,Mixture,442,3655.76,1615845.92,Vizag,Delivered,Paid
+2025-06-20,BuildCo_364,TMT Steel,Reinforcement,19,49084.87,932612.53,Vizag,In Transit,Pending
+2025-09-17,BuildCo_215,Concrete,Mixture,68,4097.62,278638.16,Vizag,In Transit,Pending
+2026-01-23,BuildCo_709,TMT Steel,Reinforcement,40,54089.68,2163587.2,Pune,Delivered,Pending
+2025-10-31,BuildCo_456,Bricks,Masonry,14612,7.9,115434.8,Bangalore,Delivered,Pending
+2025-11-11,BuildCo_160,Sand,Aggregates,401,1728.61,693172.61,Mumbai,Pending,Paid
+2025-10-14,BuildCo_708,TMT Steel,Reinforcement,19,50185.78,953529.82,Vizag,Delivered,Paid
+2025-04-29,BuildCo_923,TMT Steel,Reinforcement,37,49829.35,1843685.95,Vizag,Delivered,Paid
+2025-10-02,BuildCo_112,Concrete,Mixture,288,4025.82,1159436.16,Vizag,Delivered,Paid
+2026-01-22,BuildCo_653,Bricks,Masonry,19505,7.04,137315.2,Pune,Delivered,Paid
+2025-10-04,BuildCo_852,Bricks,Masonry,9464,6.79,64260.56,Pune,Delivered,Pending
+2025-12-12,BuildCo_594,Sand,Aggregates,161,1548.45,249300.45,Bangalore,Delivered,Pending
+2025-05-02,BuildCo_598,Cement,Binding,372,399.8,148725.6,Bangalore,Delivered,Paid
+2025-06-07,BuildCo_302,TMT Steel,Reinforcement,28,49788.73,1394084.44,Pune,Delivered,Paid
+2026-01-04,BuildCo_363,TMT Steel,Reinforcement,22,51176.17,1125875.74,Mumbai,In Transit,Pending
+2025-06-03,BuildCo_830,Concrete,Mixture,263,3711.89,976227.07,Pune,In Transit,Paid
+2026-03-02,BuildCo_406,Cement,Binding,301,325.44,97957.44,Mumbai,Delivered,Pending
+2026-02-23,BuildCo_952,Bricks,Masonry,13255,8.41,111474.55,Mumbai,Delivered,Paid
+2025-12-04,BuildCo_527,Cement,Binding,155,434.68,67375.4,Bangalore,Delivered,Paid
+2025-11-11,BuildCo_255,Bricks,Masonry,20105,6.0,120630.0,Vizag,In Transit,Partial
+2025-07-12,BuildCo_696,TMT Steel,Reinforcement,49,53210.11,2607295.39,Vizag,Delivered,Paid
+2025-12-07,BuildCo_945,Concrete,Mixture,372,3795.81,1412041.32,Vizag,In Transit,Paid
+2025-11-16,BuildCo_508,Sand,Aggregates,212,2300.7,487748.4,Vizag,In Transit,Paid
+2025-12-16,BuildCo_109,Sand,Aggregates,375,1820.61,682728.75,Hyderabad,Delivered,Paid
+2026-02-25,BuildCo_572,Bricks,Masonry,14577,9.22,134399.94,Hyderabad,Delivered,Pending
+2025-11-27,BuildCo_499,Concrete,Mixture,411,4743.22,1949463.42,Pune,Cancelled,Paid
+2025-10-27,BuildCo_234,Concrete,Mixture,379,4107.64,1556795.56,Pune,Delivered,Pending
+2025-04-01,BuildCo_608,Cement,Binding,119,397.58,47312.02,Vizag,In Transit,Paid
+2025-04-21,BuildCo_485,Sand,Aggregates,204,2071.56,422598.24,Vizag,Delivered,Partial
+2026-02-01,BuildCo_500,Sand,Aggregates,133,2385.46,317266.18,Vizag,Delivered,Pending
+2025-05-31,BuildCo_819,Cement,Binding,369,386.7,142692.3,Mumbai,In Transit,Paid
+2026-02-10,BuildCo_980,Cement,Binding,163,350.7,57164.1,Mumbai,Delivered,Paid
+2025-12-18,BuildCo_481,Sand,Aggregates,257,2300.52,591233.64,Mumbai,Delivered,Paid
+2025-04-10,BuildCo_467,Concrete,Mixture,423,3555.63,1504031.49,Bangalore,Cancelled,Paid
+2025-10-22,BuildCo_802,Cement,Binding,367,388.81,142693.27,Vizag,Delivered,Partial
+2025-09-24,BuildCo_843,Cement,Binding,115,409.96,47145.4,Bangalore,Delivered,Pending
+2025-07-11,BuildCo_846,TMT Steel,Reinforcement,42,47861.27,2010173.34,Pune,Delivered,Pending
+2025-09-29,BuildCo_135,Concrete,Mixture,371,4849.14,1799030.94,Mumbai,Delivered,Paid
+2025-03-25,BuildCo_998,Bricks,Masonry,13952,6.31,88037.12,Mumbai,Delivered,Paid
+2026-02-12,BuildCo_907,Concrete,Mixture,116,4876.05,565621.8,Mumbai,In Transit,Pending
+2025-08-02,BuildCo_311,Cement,Binding,350,414.91,145218.5,Pune,Delivered,Paid
+2025-04-02,BuildCo_180,TMT Steel,Reinforcement,7,50171.94,351203.58,Pune,Delivered,Paid
+2026-01-09,BuildCo_396,Concrete,Mixture,394,3536.35,1393321.9,Pune,Delivered,Paid
+2025-10-08,BuildCo_812,Cement,Binding,79,383.2,30272.8,Bangalore,In Transit,Paid
+2025-07-15,BuildCo_922,Concrete,Mixture,356,3958.73,1409307.88,Pune,Delivered,Paid
+2026-03-16,BuildCo_755,TMT Steel,Reinforcement,42,47676.32,2002405.44,Mumbai,Cancelled,Paid
+2025-05-13,BuildCo_714,TMT Steel,Reinforcement,22,47251.5,1039533.0,Vizag,Delivered,Paid
+2025-05-12,BuildCo_834,Bricks,Masonry,15319,10.27,157326.13,Vizag,In Transit,Pending
+2025-11-06,BuildCo_806,Sand,Aggregates,250,1552.36,388090.0,Pune,Delivered,Paid
+2026-02-13,BuildCo_578,Sand,Aggregates,458,2210.82,1012555.56,Vizag,Delivered,Paid
+2025-10-27,BuildCo_733,Sand,Aggregates,63,1966.77,123906.51,Mumbai,Pending,Paid
+2025-12-25,BuildCo_580,Cement,Binding,161,342.45,55134.45,Hyderabad,Pending,Pending
+2025-03-25,BuildCo_705,Bricks,Masonry,20226,11.51,232801.26,Bangalore,Pending,Paid
+2025-04-15,BuildCo_760,Concrete,Mixture,155,4988.24,773177.2,Bangalore,In Transit,Paid
+2025-08-15,BuildCo_706,Sand,Aggregates,72,2438.9,175600.8,Pune,Delivered,Paid
+2026-01-10,BuildCo_492,TMT Steel,Reinforcement,32,54413.55,1741233.6,Mumbai,Pending,Pending
+2026-02-19,BuildCo_564,Bricks,Masonry,9330,9.12,85089.6,Vizag,Delivered,Pending
+2025-09-18,BuildCo_509,Sand,Aggregates,270,2189.33,591119.1,Vizag,Delivered,Paid
+2025-09-25,BuildCo_686,Sand,Aggregates,421,1514.03,637406.63,Pune,In Transit,Pending
+2025-10-15,BuildCo_135,Sand,Aggregates,489,2133.33,1043198.37,Hyderabad,In Transit,Pending
+2025-08-03,BuildCo_970,Cement,Binding,279,394.71,110124.09,Mumbai,Pending,Paid
+2025-06-18,BuildCo_538,TMT Steel,Reinforcement,49,53660.66,2629372.34,Vizag,Delivered,Pending
+2025-06-27,BuildCo_687,Bricks,Masonry,13105,11.16,146251.8,Pune,In Transit,Paid
+2025-12-02,BuildCo_341,TMT Steel,Reinforcement,32,54273.03,1736736.96,Pune,Pending,Paid
+2025-12-05,BuildCo_855,Concrete,Mixture,167,3823.74,638564.58,Vizag,Delivered,Pending
+2025-07-25,BuildCo_329,TMT Steel,Reinforcement,22,47831.97,1052303.34,Mumbai,Delivered,Paid
+2026-02-19,BuildCo_806,Bricks,Masonry,14887,10.74,159886.38,Pune,Cancelled,Paid
+2025-06-06,BuildCo_861,Bricks,Masonry,8045,6.26,50361.7,Bangalore,Pending,Paid
+2025-12-18,BuildCo_511,Concrete,Mixture,455,4465.06,2031602.3,Pune,Delivered,Paid
+2026-02-18,BuildCo_354,TMT Steel,Reinforcement,49,45755.69,2242028.81,Pune,Delivered,Pending
+2025-07-28,BuildCo_866,Concrete,Mixture,311,4436.14,1379639.54,Vizag,Delivered,Paid
+2025-10-11,BuildCo_464,Concrete,Mixture,465,4969.49,2310812.85,Vizag,Delivered,Pending
+2025-11-21,BuildCo_851,TMT Steel,Reinforcement,16,49230.23,787683.68,Vizag,In Transit,Paid
+2025-04-09,BuildCo_355,Bricks,Masonry,20554,6.25,128462.5,Hyderabad,Delivered,Pending
+2026-02-12,BuildCo_476,Sand,Aggregates,398,1859.51,740084.98,Hyderabad,Delivered,Pending
+2026-03-02,BuildCo_145,Concrete,Mixture,118,3863.81,455929.58,Hyderabad,Delivered,Paid
+2025-07-12,BuildCo_656,Cement,Binding,139,427.34,59400.26,Pune,Delivered,Partial
+2025-05-29,BuildCo_930,Sand,Aggregates,56,2259.92,126555.52,Bangalore,In Transit,Paid
+2025-06-22,BuildCo_888,Cement,Binding,363,414.06,150303.78,Pune,Delivered,Partial
+2026-02-02,BuildCo_416,Sand,Aggregates,144,2424.62,349145.28,Mumbai,Pending,Partial
+2025-06-20,BuildCo_235,Cement,Binding,176,359.98,63356.48,Bangalore,Delivered,Paid
+2025-12-28,BuildCo_382,Sand,Aggregates,284,1544.9,438751.6,Hyderabad,Delivered,Partial
+2025-11-14,BuildCo_614,TMT Steel,Reinforcement,27,54230.54,1464224.58,Bangalore,Delivered,Paid
+2025-08-28,BuildCo_401,Sand,Aggregates,403,1951.96,786639.88,Vizag,Delivered,Paid
+2026-01-03,BuildCo_460,TMT Steel,Reinforcement,8,51303.61,410428.88,Mumbai,Delivered,Paid
+2025-12-14,BuildCo_168,TMT Steel,Reinforcement,47,54198.34,2547321.98,Mumbai,In Transit,Paid
+2025-08-31,BuildCo_821,Cement,Binding,254,427.02,108463.08,Hyderabad,Delivered,Pending
+2025-07-24,BuildCo_801,TMT Steel,Reinforcement,10,50608.18,506081.8,Hyderabad,Delivered,Paid
+2025-11-12,BuildCo_949,Cement,Binding,274,319.21,87463.54,Vizag,Delivered,Pending
+2025-05-03,BuildCo_299,TMT Steel,Reinforcement,20,53078.89,1061577.8,Bangalore,Delivered,Paid
+2025-11-15,BuildCo_597,Concrete,Mixture,164,4259.82,698610.48,Vizag,Pending,Pending
+2025-07-13,BuildCo_606,Bricks,Masonry,5524,9.17,50655.08,Bangalore,Delivered,Pending
+2025-10-21,BuildCo_392,Cement,Binding,487,390.96,190397.52,Vizag,In Transit,Paid
+2025-07-02,BuildCo_421,TMT Steel,Reinforcement,45,53085.16,2388832.2,Vizag,In Transit,Paid
+2025-07-20,BuildCo_260,Bricks,Masonry,11541,9.4,108485.4,Pune,Delivered,Pending
+2025-11-09,BuildCo_278,Cement,Binding,110,324.09,35649.9,Hyderabad,Delivered,Paid
+2025-10-31,BuildCo_278,Bricks,Masonry,9510,8.68,82546.8,Hyderabad,Pending,Paid
+2025-11-08,BuildCo_527,Bricks,Masonry,6163,10.38,63971.94,Mumbai,Delivered,Partial
+2026-01-04,BuildCo_462,Cement,Binding,125,325.41,40676.25,Pune,Cancelled,Pending
+2025-07-22,BuildCo_231,Bricks,Masonry,19552,10.92,213507.84,Pune,Pending,Paid
+2025-10-11,BuildCo_922,TMT Steel,Reinforcement,26,48699.61,1266189.86,Hyderabad,In Transit,Paid
+2025-12-13,BuildCo_771,Cement,Binding,329,369.26,121486.54,Mumbai,Pending,Pending
+2025-08-18,BuildCo_600,Cement,Binding,352,440.82,155168.64,Pune,Delivered,Paid
+2025-08-08,BuildCo_799,TMT Steel,Reinforcement,9,47652.72,428874.48,Mumbai,Delivered,Paid
+2025-09-28,BuildCo_286,Concrete,Mixture,321,3977.39,1276742.19,Hyderabad,Delivered,Paid
+2025-05-12,BuildCo_826,TMT Steel,Reinforcement,29,51053.67,1480556.43,Vizag,In Transit,Paid
+2025-03-18,BuildCo_711,Bricks,Masonry,13787,6.68,92097.16,Mumbai,Delivered,Pending
+2025-06-18,BuildCo_559,Sand,Aggregates,283,2212.71,626196.93,Bangalore,Delivered,Paid
+2025-08-16,BuildCo_520,Bricks,Masonry,18403,10.47,192679.41,Pune,In Transit,Paid
+2025-10-16,BuildCo_837,TMT Steel,Reinforcement,14,45376.85,635275.9,Pune,Delivered,Paid
+2025-04-07,BuildCo_577,Concrete,Mixture,242,4002.23,968539.66,Vizag,In Transit,Partial
+2026-03-15,BuildCo_468,Bricks,Masonry,9938,8.13,80795.94,Hyderabad,In Transit,Pending
+2026-01-29,BuildCo_544,Bricks,Masonry,24383,11.78,287231.74,Pune,Delivered,Paid
+2025-03-31,BuildCo_759,Bricks,Masonry,20483,9.97,204215.51,Hyderabad,In Transit,Partial
+2025-11-22,BuildCo_267,Cement,Binding,149,429.17,63946.33,Bangalore,Pending,Paid
+2026-03-13,BuildCo_504,Bricks,Masonry,10989,6.08,66813.12,Mumbai,Delivered,Paid
+2025-05-14,BuildCo_181,Concrete,Mixture,70,3999.24,279946.8,Hyderabad,Delivered,Paid
+2026-03-15,BuildCo_292,Concrete,Mixture,347,4394.61,1524929.67,Bangalore,In Transit,Pending
+2025-12-13,BuildCo_273,TMT Steel,Reinforcement,42,47500.35,1995014.7,Pune,Delivered,Pending
+2026-01-27,BuildCo_566,Cement,Binding,231,364.51,84201.81,Mumbai,Delivered,Partial
+2026-01-30,BuildCo_801,Cement,Binding,252,314.46,79243.92,Bangalore,Delivered,Paid
+2025-10-28,BuildCo_766,Sand,Aggregates,423,1508.87,638252.01,Bangalore,In Transit,Pending
+2025-10-14,BuildCo_771,Concrete,Mixture,353,4491.18,1585386.54,Mumbai,Delivered,Paid
+2025-09-23,BuildCo_941,TMT Steel,Reinforcement,43,46144.75,1984224.25,Vizag,Delivered,Paid
+2025-05-17,BuildCo_402,Cement,Binding,58,429.09,24887.22,Pune,In Transit,Pending
+2026-03-02,BuildCo_909,Cement,Binding,99,308.02,30493.98,Pune,Delivered,Paid
+2025-07-23,BuildCo_431,Concrete,Mixture,485,4587.34,2224859.9,Vizag,Delivered,Paid
+2025-12-12,BuildCo_379,Sand,Aggregates,425,2235.42,950053.5,Bangalore,Pending,Paid
+2025-10-18,BuildCo_178,Concrete,Mixture,461,4902.79,2260186.19,Pune,Delivered,Paid
+2025-06-14,BuildCo_115,Cement,Binding,106,401.25,42532.5,Bangalore,Delivered,Paid
+2026-02-09,BuildCo_738,Cement,Binding,490,447.81,219426.9,Mumbai,In Transit,Paid
+2025-10-18,BuildCo_397,Sand,Aggregates,414,2095.9,867702.6,Vizag,In Transit,Paid
+2025-04-25,BuildCo_863,Concrete,Mixture,159,4652.46,739741.14,Vizag,Delivered,Pending
+2025-07-21,BuildCo_462,TMT Steel,Reinforcement,42,47212.29,1982916.18,Pune,Delivered,Paid
+2025-07-08,BuildCo_368,Cement,Binding,149,327.68,48824.32,Pune,Delivered,Pending
+2026-01-21,BuildCo_656,TMT Steel,Reinforcement,7,51142.97,358000.79,Hyderabad,Delivered,Pending
+2025-05-16,BuildCo_184,TMT Steel,Reinforcement,16,54928.17,878850.72,Bangalore,Delivered,Paid
+2025-05-30,BuildCo_847,Bricks,Masonry,22481,6.89,154894.09,Pune,Pending,Paid
+2025-03-23,BuildCo_386,Cement,Binding,340,368.27,125211.8,Pune,Delivered,Paid
+2025-09-13,BuildCo_844,Cement,Binding,297,416.12,123587.64,Mumbai,Delivered,Pending
+2026-03-03,BuildCo_682,Cement,Binding,324,443.31,143632.44,Vizag,Delivered,Pending
+2026-01-14,BuildCo_757,Bricks,Masonry,9483,6.84,64863.72,Hyderabad,Delivered,Paid
+2026-02-17,BuildCo_950,Bricks,Masonry,9286,9.89,91838.54,Hyderabad,In Transit,Partial
+2025-12-16,BuildCo_569,Cement,Binding,66,438.39,28933.74,Bangalore,In Transit,Partial
+2025-11-04,BuildCo_639,Cement,Binding,321,306.36,98341.56,Hyderabad,Delivered,Pending
+2026-02-11,BuildCo_931,Bricks,Masonry,9060,7.58,68674.8,Hyderabad,Delivered,Pending
+2025-12-23,BuildCo_985,Concrete,Mixture,276,4638.39,1280195.64,Mumbai,In Transit,Paid
+2025-06-04,BuildCo_238,TMT Steel,Reinforcement,27,54438.32,1469834.64,Bangalore,Delivered,Pending
+2025-09-02,BuildCo_875,TMT Steel,Reinforcement,40,54025.07,2161002.8,Pune,In Transit,Paid
+2025-12-17,BuildCo_261,TMT Steel,Reinforcement,31,52215.04,1618666.24,Vizag,In Transit,Partial
+2025-09-29,BuildCo_796,TMT Steel,Reinforcement,44,46505.95,2046261.8,Hyderabad,Delivered,Paid
+2025-04-02,BuildCo_745,Bricks,Masonry,5131,11.21,57518.51,Pune,In Transit,Pending
+2025-09-08,BuildCo_762,TMT Steel,Reinforcement,10,46841.86,468418.6,Bangalore,Delivered,Paid
+2025-07-18,BuildCo_593,Cement,Binding,119,332.5,39567.5,Hyderabad,Delivered,Partial
+2025-09-15,BuildCo_997,Concrete,Mixture,259,4984.11,1290884.49,Hyderabad,In Transit,Pending
+2026-01-07,BuildCo_798,Cement,Binding,63,404.09,25457.67,Hyderabad,Delivered,Paid
+2025-04-06,BuildCo_734,Cement,Binding,325,433.43,140864.75,Vizag,Pending,Paid
+2025-08-10,BuildCo_104,Cement,Binding,353,377.98,133426.94,Bangalore,Pending,Paid
+2026-02-09,BuildCo_668,TMT Steel,Reinforcement,19,48039.61,912752.59,Hyderabad,Delivered,Paid
+2026-02-24,BuildCo_577,Concrete,Mixture,364,3852.08,1402157.12,Hyderabad,In Transit,Partial
+2025-06-19,BuildCo_689,Concrete,Mixture,135,4618.12,623446.2,Vizag,Pending,Paid
+2025-05-11,BuildCo_625,TMT Steel,Reinforcement,43,54506.03,2343759.29,Hyderabad,Cancelled,Paid
+2026-02-01,BuildCo_586,Concrete,Mixture,498,4477.85,2229969.3,Vizag,Pending,Pending
+2025-06-29,BuildCo_106,Bricks,Masonry,11848,10.84,128432.32,Hyderabad,Delivered,Pending
+2025-06-23,BuildCo_718,Concrete,Mixture,128,4128.82,528488.96,Mumbai,In Transit,Pending
+2025-05-18,BuildCo_380,Sand,Aggregates,103,1923.19,198088.57,Hyderabad,Cancelled,Paid
+2025-11-17,BuildCo_527,Bricks,Masonry,7338,10.08,73967.04,Pune,Delivered,Pending
+2025-09-09,BuildCo_171,Bricks,Masonry,8148,9.61,78302.28,Vizag,Delivered,Paid
+2025-06-03,BuildCo_896,Bricks,Masonry,21088,10.41,219526.08,Bangalore,Delivered,Paid
+2025-11-17,BuildCo_450,Concrete,Mixture,101,4957.31,500688.31,Vizag,Pending,Pending
+2025-08-15,BuildCo_653,Cement,Binding,182,438.23,79757.86,Vizag,Cancelled,Paid
+2025-06-08,BuildCo_111,Bricks,Masonry,13102,9.27,121455.54,Pune,Pending,Pending
+2025-06-19,BuildCo_982,Sand,Aggregates,388,1911.52,741669.76,Pune,In Transit,Paid
+2025-11-20,BuildCo_182,Cement,Binding,112,426.96,47819.52,Pune,In Transit,Pending
+2025-11-02,BuildCo_892,Concrete,Mixture,187,4817.87,900941.69,Bangalore,In Transit,Paid
+2026-03-14,BuildCo_221,Bricks,Masonry,24271,6.63,160916.73,Hyderabad,Delivered,Paid
+2026-01-12,BuildCo_481,Bricks,Masonry,14180,11.48,162786.4,Hyderabad,Delivered,Pending
+2026-02-03,BuildCo_660,Bricks,Masonry,17041,7.9,134623.9,Vizag,In Transit,Paid
+2025-10-23,BuildCo_597,Bricks,Masonry,22070,9.69,213858.3,Pune,Cancelled,Partial
+2025-12-03,BuildCo_698,Cement,Binding,407,321.02,130655.14,Vizag,Cancelled,Pending
+2025-04-03,BuildCo_191,Concrete,Mixture,334,3567.23,1191454.82,Pune,Cancelled,Paid
+2025-11-30,BuildCo_757,Sand,Aggregates,430,2406.09,1034618.7,Bangalore,Delivered,Paid
+2025-09-19,BuildCo_494,TMT Steel,Reinforcement,9,49299.63,443696.67,Pune,In Transit,Pending
+2025-09-02,BuildCo_929,TMT Steel,Reinforcement,41,52983.28,2172314.48,Vizag,Delivered,Paid
+2025-07-19,BuildCo_215,Sand,Aggregates,236,2274.06,536678.16,Bangalore,Delivered,Paid
+2025-06-28,BuildCo_971,Bricks,Masonry,18644,8.03,149711.32,Vizag,Pending,Pending
+2026-03-11,BuildCo_855,Concrete,Mixture,182,3520.67,640761.94,Hyderabad,In Transit,Pending
+2025-03-19,BuildCo_881,TMT Steel,Reinforcement,5,52761.43,263807.15,Mumbai,Delivered,Paid
+2025-05-13,BuildCo_950,Concrete,Mixture,493,4718.06,2326003.58,Pune,Delivered,Pending
+2025-06-16,BuildCo_675,Concrete,Mixture,77,4865.67,374656.59,Bangalore,Cancelled,Paid
+2026-02-18,BuildCo_102,Bricks,Masonry,19451,10.08,196066.08,Vizag,Delivered,Paid
+2025-11-08,BuildCo_813,Concrete,Mixture,103,3738.21,385035.63,Vizag,Delivered,Partial
+2025-07-26,BuildCo_475,Sand,Aggregates,104,2027.37,210846.48,Pune,Delivered,Pending
+2025-10-31,BuildCo_542,TMT Steel,Reinforcement,38,54096.07,2055650.66,Hyderabad,Pending,Paid
+2025-12-15,BuildCo_692,Sand,Aggregates,234,1840.61,430702.74,Hyderabad,Delivered,Paid
+2026-02-07,BuildCo_836,Sand,Aggregates,342,1992.71,681506.82,Mumbai,Pending,Paid
+2026-02-05,BuildCo_890,Sand,Aggregates,316,2098.68,663182.88,Hyderabad,In Transit,Paid
+2025-03-23,BuildCo_651,Cement,Binding,247,360.87,89134.89,Mumbai,Delivered,Pending
+2025-06-16,BuildCo_340,Concrete,Mixture,441,4547.69,2005531.29,Pune,Pending,Paid
+2026-01-04,BuildCo_382,Sand,Aggregates,373,2428.71,905908.83,Pune,Delivered,Paid
+2025-08-24,BuildCo_519,Cement,Binding,269,413.47,111223.43,Vizag,Delivered,Pending
+2025-07-31,BuildCo_217,Cement,Binding,480,404.59,194203.2,Mumbai,Delivered,Pending
+2025-04-12,BuildCo_373,Concrete,Mixture,150,3667.33,550099.5,Pune,Delivered,Paid
+2025-06-16,BuildCo_556,Sand,Aggregates,306,2101.37,643019.22,Vizag,Delivered,Pending
+2026-02-10,BuildCo_745,Sand,Aggregates,486,1857.22,902608.92,Pune,Delivered,Paid
+2025-05-06,BuildCo_718,Concrete,Mixture,380,3999.64,1519863.2,Bangalore,Delivered,Paid
+2025-09-28,BuildCo_637,Sand,Aggregates,412,2449.55,1009214.6,Hyderabad,Delivered,Pending
+2025-11-10,BuildCo_504,Concrete,Mixture,374,4074.73,1523949.02,Vizag,In Transit,Pending
+2025-08-09,BuildCo_923,Sand,Aggregates,417,2353.0,981201.0,Mumbai,Delivered,Pending
+2025-12-30,BuildCo_780,Concrete,Mixture,458,4973.4,2277817.2,Vizag,In Transit,Paid
+2025-05-23,BuildCo_153,Concrete,Mixture,246,4181.69,1028695.74,Bangalore,Delivered,Pending
+2025-05-13,BuildCo_858,TMT Steel,Reinforcement,23,51250.89,1178770.47,Hyderabad,Delivered,Paid
+2026-01-22,BuildCo_215,Bricks,Masonry,18717,8.46,158345.82,Vizag,Delivered,Partial
+2025-07-18,BuildCo_772,Cement,Binding,167,369.16,61649.72,Vizag,In Transit,Paid
+2025-04-01,BuildCo_670,TMT Steel,Reinforcement,11,52277.41,575051.51,Mumbai,Delivered,Paid
+2025-07-15,BuildCo_502,Cement,Binding,146,389.67,56891.82,Hyderabad,Delivered,Paid
+2025-03-24,BuildCo_838,Cement,Binding,91,340.95,31026.45,Bangalore,Pending,Partial
+2025-06-08,BuildCo_193,TMT Steel,Reinforcement,20,51347.26,1026945.2,Hyderabad,Delivered,Paid
+2026-02-13,BuildCo_104,Sand,Aggregates,204,1864.99,380457.96,Vizag,Delivered,Paid
+2025-07-07,BuildCo_258,TMT Steel,Reinforcement,39,53911.87,2102562.93,Vizag,Pending,Paid
+2025-07-27,BuildCo_812,TMT Steel,Reinforcement,45,51980.9,2339140.5,Mumbai,Delivered,Paid
+2026-02-09,BuildCo_401,Concrete,Mixture,86,4034.51,346967.86,Vizag,In Transit,Pending
+2025-12-07,BuildCo_841,TMT Steel,Reinforcement,28,51958.98,1454851.44,Pune,Delivered,Paid
+2025-11-12,BuildCo_775,Concrete,Mixture,438,4444.04,1946489.52,Hyderabad,Pending,Partial
+2025-12-30,BuildCo_154,Concrete,Mixture,168,3687.98,619580.64,Bangalore,In Transit,Paid
+2025-10-19,BuildCo_845,Concrete,Mixture,113,4542.89,513346.57,Hyderabad,Delivered,Paid
+2025-10-15,BuildCo_381,Bricks,Masonry,9148,6.16,56351.68,Pune,Delivered,Paid
+2025-12-17,BuildCo_749,Sand,Aggregates,203,2438.32,494978.96,Vizag,Delivered,Paid
+2025-11-08,BuildCo_456,Cement,Binding,249,321.63,80085.87,Mumbai,In Transit,Paid
+2025-08-25,BuildCo_287,Sand,Aggregates,125,2264.89,283111.25,Hyderabad,Pending,Paid
+2026-02-08,BuildCo_105,Sand,Aggregates,253,1562.93,395421.29,Vizag,Delivered,Paid
+2025-08-09,BuildCo_786,Bricks,Masonry,12590,10.11,127284.9,Hyderabad,Delivered,Pending
+2025-10-25,BuildCo_652,TMT Steel,Reinforcement,26,46389.98,1206139.48,Pune,Pending,Paid
+2025-07-02,BuildCo_423,Bricks,Masonry,19491,11.87,231358.17,Bangalore,Delivered,Paid
+2025-11-04,BuildCo_142,Bricks,Masonry,16897,6.95,117434.15,Pune,Pending,Pending
+2025-09-06,BuildCo_376,TMT Steel,Reinforcement,38,50711.56,1927039.28,Mumbai,In Transit,Paid
+2025-04-10,BuildCo_239,Sand,Aggregates,121,2391.22,289337.62,Hyderabad,Cancelled,Paid
+2025-11-21,BuildCo_345,Sand,Aggregates,358,1816.78,650407.24,Vizag,Delivered,Paid
+2025-06-01,BuildCo_755,Cement,Binding,434,376.54,163418.36,Hyderabad,Delivered,Paid
+2026-02-13,BuildCo_285,Concrete,Mixture,187,4684.16,875937.92,Vizag,Delivered,Paid
+2026-02-01,BuildCo_711,Cement,Binding,214,357.4,76483.6,Vizag,Delivered,Paid
+2026-01-25,BuildCo_170,Cement,Binding,326,380.87,124163.62,Hyderabad,Delivered,Paid
+2025-05-07,BuildCo_894,Sand,Aggregates,301,1543.5,464593.5,Mumbai,In Transit,Paid
+2025-03-24,BuildCo_793,TMT Steel,Reinforcement,36,53107.37,1911865.32,Pune,In Transit,Paid
+2025-05-07,BuildCo_778,Concrete,Mixture,226,3724.98,841845.48,Pune,In Transit,Paid
+2025-08-02,BuildCo_723,Sand,Aggregates,119,1763.75,209886.25,Vizag,In Transit,Paid
+2025-07-27,BuildCo_559,Bricks,Masonry,18567,7.77,144265.59,Hyderabad,Pending,Paid
+2025-04-04,BuildCo_559,Concrete,Mixture,150,4095.9,614385.0,Pune,Delivered,Pending
+2026-02-14,BuildCo_365,Bricks,Masonry,9356,7.66,71666.96,Pune,In Transit,Pending
+2025-12-09,BuildCo_209,Concrete,Mixture,195,3591.55,700352.25,Mumbai,Delivered,Paid
+2026-01-14,BuildCo_293,Cement,Binding,344,377.92,130004.48,Pune,Pending,Pending
+2025-04-27,BuildCo_268,Bricks,Masonry,10761,11.62,125042.82,Hyderabad,In Transit,Paid
+2026-03-01,BuildCo_954,TMT Steel,Reinforcement,28,52845.83,1479683.24,Pune,Pending,Pending
+2025-05-09,BuildCo_517,Concrete,Mixture,52,3682.36,191482.72,Pune,Pending,Pending
+2026-02-02,BuildCo_633,Bricks,Masonry,7821,11.93,93304.53,Pune,Delivered,Paid
+2026-01-05,BuildCo_579,Concrete,Mixture,98,3905.75,382763.5,Pune,In Transit,Paid
+2026-02-12,BuildCo_449,TMT Steel,Reinforcement,15,49507.62,742614.3,Hyderabad,Pending,Paid
+2026-01-31,BuildCo_662,Concrete,Mixture,172,4380.82,753501.04,Hyderabad,Delivered,Pending
+2026-03-01,BuildCo_721,TMT Steel,Reinforcement,49,47504.04,2327697.96,Mumbai,Delivered,Paid
+2025-12-05,BuildCo_283,Sand,Aggregates,340,2373.97,807149.8,Bangalore,Pending,Paid
+2025-04-01,BuildCo_426,Cement,Binding,332,373.22,123909.04,Vizag,In Transit,Paid
+2025-09-03,BuildCo_247,Bricks,Masonry,6083,9.78,59491.74,Vizag,Pending,Paid
+2025-05-11,BuildCo_313,Sand,Aggregates,90,1747.4,157266.0,Vizag,In Transit,Paid
+2025-06-07,BuildCo_884,Bricks,Masonry,15960,9.8,156408.0,Mumbai,Delivered,Paid
+2026-02-12,BuildCo_412,Cement,Binding,211,398.61,84106.71,Vizag,Delivered,Paid
+2025-07-13,BuildCo_765,Concrete,Mixture,176,4570.24,804362.24,Bangalore,Pending,Paid
+2025-06-14,BuildCo_984,TMT Steel,Reinforcement,11,54596.25,600558.75,Bangalore,Delivered,Paid
+2025-12-29,BuildCo_233,Bricks,Masonry,9960,7.61,75795.6,Vizag,Delivered,Pending
+2026-01-23,BuildCo_684,Bricks,Masonry,21746,9.01,195931.46,Bangalore,Delivered,Paid
+2025-09-10,BuildCo_783,Concrete,Mixture,491,4087.11,2006771.01,Bangalore,Delivered,Paid
+2025-07-10,BuildCo_517,Cement,Binding,358,368.76,132016.08,Vizag,Delivered,Paid
+2025-04-07,BuildCo_468,TMT Steel,Reinforcement,32,49626.59,1588050.88,Pune,Pending,Pending
+2025-07-18,BuildCo_354,Sand,Aggregates,480,1582.32,759513.6,Mumbai,Cancelled,Paid
+2025-08-21,BuildCo_509,Concrete,Mixture,491,3995.23,1961657.93,Hyderabad,Delivered,Paid
+2025-12-22,BuildCo_243,Cement,Binding,293,408.61,119722.73,Bangalore,In Transit,Paid
+2025-09-27,BuildCo_517,Sand,Aggregates,106,2115.89,224284.34,Hyderabad,Pending,Paid
+2025-04-08,BuildCo_713,Bricks,Masonry,16834,11.17,188035.78,Bangalore,Delivered,Paid
+2025-06-26,BuildCo_697,Bricks,Masonry,6349,9.64,61204.36,Bangalore,Delivered,Paid
+2026-02-19,BuildCo_354,Sand,Aggregates,198,1512.13,299401.74,Bangalore,Delivered,Paid
+2026-03-08,BuildCo_953,Sand,Aggregates,60,2251.75,135105.0,Mumbai,Pending,Pending
+2025-11-15,BuildCo_539,Sand,Aggregates,343,1725.73,591925.39,Vizag,In Transit,Paid
+2025-08-26,BuildCo_122,Cement,Binding,177,388.26,68722.02,Hyderabad,Delivered,Pending
+2025-06-02,BuildCo_412,Cement,Binding,205,310.26,63603.3,Mumbai,In Transit,Paid
+2025-10-25,BuildCo_161,TMT Steel,Reinforcement,29,48603.23,1409493.67,Hyderabad,In Transit,Paid
+2025-10-07,BuildCo_285,Bricks,Masonry,18632,6.55,122039.6,Bangalore,In Transit,Pending
+2025-06-16,BuildCo_112,TMT Steel,Reinforcement,8,52119.08,416952.64,Mumbai,Delivered,Paid
+2025-06-25,BuildCo_496,Cement,Binding,375,418.68,157005.0,Bangalore,In Transit,Pending
+2026-03-18,BuildCo_581,Bricks,Masonry,16440,7.95,130698.0,Bangalore,Delivered,Paid
+2025-04-24,BuildCo_908,Cement,Binding,153,380.91,58279.23,Bangalore,Delivered,Partial
+2025-09-19,BuildCo_252,TMT Steel,Reinforcement,48,54694.23,2625323.04,Bangalore,Delivered,Paid
+2025-10-28,BuildCo_650,Concrete,Mixture,86,4791.1,412034.6,Pune,Delivered,Paid
+2025-11-25,BuildCo_261,Concrete,Mixture,294,3975.4,1168767.6,Hyderabad,In Transit,Paid
+2025-06-28,BuildCo_742,Sand,Aggregates,57,2436.56,138883.92,Pune,Delivered,Paid
+2025-12-02,BuildCo_616,Concrete,Mixture,285,4797.75,1367358.75,Bangalore,In Transit,Paid
+2026-02-27,BuildCo_894,Concrete,Mixture,327,4110.69,1344195.63,Mumbai,Pending,Paid
+2025-08-18,BuildCo_627,Concrete,Mixture,440,4398.37,1935282.8,Bangalore,Cancelled,Paid
+2026-01-27,BuildCo_318,Bricks,Masonry,18548,9.2,170641.6,Hyderabad,Delivered,Paid
+2025-03-23,BuildCo_831,Cement,Binding,365,357.33,130425.45,Pune,Pending,Pending
+2025-05-26,BuildCo_588,Cement,Binding,328,313.58,102854.24,Mumbai,In Transit,Paid
+2025-09-01,BuildCo_754,Bricks,Masonry,7735,11.0,85085.0,Mumbai,Cancelled,Paid
+2025-05-18,BuildCo_878,TMT Steel,Reinforcement,22,47179.07,1037939.54,Pune,Delivered,Pending
+2026-03-11,BuildCo_508,TMT Steel,Reinforcement,28,51589.54,1444507.12,Pune,Delivered,Pending
+2025-11-24,BuildCo_424,TMT Steel,Reinforcement,38,47015.74,1786598.12,Vizag,Pending,Partial
+2026-01-13,BuildCo_343,TMT Steel,Reinforcement,50,45287.01,2264350.5,Bangalore,Delivered,Paid
+2025-04-16,BuildCo_328,Cement,Binding,384,351.08,134814.72,Hyderabad,Pending,Paid
+2025-04-14,BuildCo_596,Concrete,Mixture,84,3994.38,335527.92,Vizag,In Transit,Paid
+2025-09-20,BuildCo_867,TMT Steel,Reinforcement,30,46784.86,1403545.8,Mumbai,Pending,Paid
+2025-11-26,BuildCo_400,Bricks,Masonry,7437,11.91,88574.67,Bangalore,Delivered,Pending
+2025-05-16,BuildCo_252,Bricks,Masonry,14973,9.33,139698.09,Vizag,Delivered,Pending
+2025-09-28,BuildCo_193,Sand,Aggregates,432,2458.82,1062210.24,Mumbai,Delivered,Paid
+2026-01-25,BuildCo_540,Cement,Binding,406,442.51,179659.06,Hyderabad,Pending,Pending
+2026-02-21,BuildCo_180,TMT Steel,Reinforcement,16,47599.32,761589.12,Pune,Delivered,Paid
+2025-11-23,BuildCo_858,Cement,Binding,228,301.12,68655.36,Hyderabad,Delivered,Pending
+2025-10-21,BuildCo_490,Cement,Binding,185,400.02,74003.7,Mumbai,Delivered,Paid
+2025-05-27,BuildCo_218,Bricks,Masonry,22258,7.24,161147.92,Pune,In Transit,Paid
+2025-08-02,BuildCo_260,Bricks,Masonry,18059,10.14,183118.26,Hyderabad,Pending,Pending
+2025-11-12,BuildCo_310,Concrete,Mixture,334,4016.35,1341460.9,Hyderabad,Delivered,Paid
+2025-04-17,BuildCo_914,Sand,Aggregates,490,1775.95,870215.5,Vizag,Delivered,Pending
+2025-10-14,BuildCo_990,TMT Steel,Reinforcement,20,49014.75,980295.0,Bangalore,Delivered,Paid
+2026-01-28,BuildCo_140,Bricks,Masonry,21969,9.1,199917.9,Bangalore,Delivered,Partial
+2025-04-07,BuildCo_739,TMT Steel,Reinforcement,43,50235.31,2160118.33,Vizag,Delivered,Pending
+2025-05-24,BuildCo_571,Sand,Aggregates,288,1769.43,509595.84,Mumbai,Delivered,Paid
+2025-04-13,BuildCo_394,Cement,Binding,196,315.95,61926.2,Hyderabad,Delivered,Pending
+2025-05-06,BuildCo_671,TMT Steel,Reinforcement,30,54811.85,1644355.5,Vizag,Delivered,Paid
+2026-02-01,BuildCo_608,Sand,Aggregates,466,1609.4,749980.4,Hyderabad,Delivered,Pending
+2025-10-15,BuildCo_419,Sand,Aggregates,434,1830.13,794276.42,Bangalore,Delivered,Partial
+2025-05-30,BuildCo_170,Sand,Aggregates,110,2122.56,233481.6,Pune,Delivered,Paid
+2025-06-24,BuildCo_564,TMT Steel,Reinforcement,36,51887.65,1867955.4,Hyderabad,Delivered,Paid
+2026-01-13,BuildCo_195,Concrete,Mixture,256,4892.36,1252444.16,Mumbai,In Transit,Pending
+2026-01-09,BuildCo_112,Sand,Aggregates,323,2190.03,707379.69,Hyderabad,Pending,Pending
+2026-02-10,BuildCo_574,Bricks,Masonry,19609,10.63,208443.67,Mumbai,Delivered,Pending
+2026-01-25,BuildCo_653,Concrete,Mixture,209,3988.35,833565.15,Vizag,Cancelled,Paid
+2025-03-31,BuildCo_236,TMT Steel,Reinforcement,11,54158.01,595738.11,Hyderabad,Delivered,Partial
+2025-05-22,BuildCo_735,Concrete,Mixture,483,4865.66,2350113.78,Hyderabad,Pending,Paid
+2025-08-09,BuildCo_535,Bricks,Masonry,7689,8.21,63126.69,Pune,Delivered,Paid
+2025-08-28,BuildCo_701,TMT Steel,Reinforcement,8,51405.57,411244.56,Hyderabad,Delivered,Pending
+2026-02-12,BuildCo_535,Cement,Binding,485,382.57,185546.45,Bangalore,In Transit,Pending
+2025-05-13,BuildCo_876,Concrete,Mixture,195,4462.55,870197.25,Vizag,Pending,Paid
+2026-02-20,BuildCo_703,Sand,Aggregates,111,2225.49,247029.39,Hyderabad,Cancelled,Paid
+2026-01-15,BuildCo_451,TMT Steel,Reinforcement,37,46185.21,1708852.77,Bangalore,Delivered,Paid
+2025-08-05,BuildCo_566,Sand,Aggregates,493,2312.03,1139830.79,Vizag,Delivered,Paid
+2025-08-26,BuildCo_179,Bricks,Masonry,10510,7.82,82188.2,Vizag,Delivered,Paid
+2025-06-28,BuildCo_105,TMT Steel,Reinforcement,41,46747.58,1916650.78,Vizag,Pending,Pending
+2025-12-07,BuildCo_124,TMT Steel,Reinforcement,18,52463.6,944344.8,Mumbai,Pending,Paid
+2025-10-11,BuildCo_606,Concrete,Mixture,99,3910.38,387127.62,Vizag,Delivered,Paid
+2026-02-05,BuildCo_905,Cement,Binding,331,407.67,134938.77,Hyderabad,Delivered,Pending
+2025-09-17,BuildCo_567,Cement,Binding,465,440.68,204916.2,Hyderabad,Pending,Paid
+2025-08-04,BuildCo_461,Sand,Aggregates,360,2417.98,870472.8,Mumbai,Cancelled,Pending
+2025-10-22,BuildCo_347,Cement,Binding,145,419.7,60856.5,Mumbai,Delivered,Paid
+2026-01-14,BuildCo_592,Sand,Aggregates,52,1840.4,95700.8,Hyderabad,In Transit,Paid
+2025-04-23,BuildCo_437,Bricks,Masonry,13478,7.92,106745.76,Hyderabad,Delivered,Paid
+2025-08-01,BuildCo_929,TMT Steel,Reinforcement,29,50895.83,1475979.07,Mumbai,In Transit,Pending
+2026-02-09,BuildCo_283,Concrete,Mixture,227,4637.71,1052760.17,Mumbai,Delivered,Paid
+2025-05-23,BuildCo_108,TMT Steel,Reinforcement,26,52760.97,1371785.22,Hyderabad,In Transit,Pending
+2025-06-19,BuildCo_346,Concrete,Mixture,196,3937.7,771789.2,Hyderabad,Delivered,Paid
+2025-12-24,BuildCo_891,Sand,Aggregates,128,1559.82,199656.96,Vizag,In Transit,Paid
+2025-04-15,BuildCo_703,Sand,Aggregates,291,2172.85,632299.35,Vizag,Delivered,Paid
+2026-03-14,BuildCo_239,Sand,Aggregates,160,1815.09,290414.4,Hyderabad,Pending,Paid
+2025-08-29,BuildCo_856,Sand,Aggregates,438,1736.01,760372.38,Pune,Delivered,Paid
+2025-05-05,BuildCo_768,Sand,Aggregates,435,1923.42,836687.7,Pune,Pending,Paid
+2025-08-26,BuildCo_763,Bricks,Masonry,11139,7.05,78529.95,Vizag,Delivered,Paid
+2025-12-30,BuildCo_412,Concrete,Mixture,127,4705.39,597584.53,Vizag,Delivered,Paid
+2026-03-08,BuildCo_962,Bricks,Masonry,16427,7.15,117453.05,Mumbai,Delivered,Paid
+2025-05-08,BuildCo_164,Cement,Binding,200,341.69,68338.0,Bangalore,Delivered,Pending
+2026-03-12,BuildCo_543,Bricks,Masonry,11656,9.27,108051.12,Mumbai,Pending,Pending
+2025-10-18,BuildCo_245,Bricks,Masonry,8933,9.47,84595.51,Pune,Delivered,Pending
+2025-09-19,BuildCo_295,Sand,Aggregates,291,2079.26,605064.66,Pune,Delivered,Paid
+2025-07-16,BuildCo_698,Bricks,Masonry,5105,11.96,61055.8,Vizag,Delivered,Paid
+2026-01-07,BuildCo_192,Bricks,Masonry,16559,9.45,156482.55,Hyderabad,Pending,Paid
+2026-01-30,BuildCo_271,Concrete,Mixture,94,4601.35,432526.9,Pune,Delivered,Pending
+2025-04-18,BuildCo_430,Bricks,Masonry,7785,9.92,77227.2,Pune,In Transit,Pending
+2025-10-23,BuildCo_789,Cement,Binding,117,308.06,36043.02,Pune,Delivered,Pending
+2025-08-14,BuildCo_659,Cement,Binding,124,387.91,48100.84,Pune,In Transit,Partial
+2025-08-25,BuildCo_817,Sand,Aggregates,294,1696.07,498644.58,Pune,Delivered,Pending
+2025-05-13,BuildCo_267,Sand,Aggregates,482,2240.52,1079930.64,Hyderabad,Delivered,Pending
+2025-10-07,BuildCo_284,Bricks,Masonry,11255,8.92,100394.6,Pune,In Transit,Pending
+2025-09-04,BuildCo_584,Bricks,Masonry,24287,10.5,255013.5,Mumbai,Delivered,Partial
+2026-01-16,BuildCo_524,Cement,Binding,316,440.5,139198.0,Pune,Pending,Pending
+2025-11-20,BuildCo_716,Bricks,Masonry,9297,6.31,58664.07,Hyderabad,Cancelled,Paid
+2025-04-08,BuildCo_387,Concrete,Mixture,90,4366.97,393027.3,Hyderabad,Delivered,Pending
+2025-10-08,BuildCo_487,Sand,Aggregates,137,1723.91,236175.67,Bangalore,Delivered,Pending
+2025-10-19,BuildCo_869,Bricks,Masonry,7702,6.61,50910.22,Vizag,Delivered,Paid
+2026-02-19,BuildCo_395,Concrete,Mixture,51,4846.12,247152.12,Bangalore,Delivered,Paid
+2025-09-19,BuildCo_565,Bricks,Masonry,22394,6.4,143321.6,Bangalore,In Transit,Pending
+2025-06-16,BuildCo_456,Concrete,Mixture,493,4373.68,2156224.24,Pune,Delivered,Paid
+2026-01-01,BuildCo_840,TMT Steel,Reinforcement,48,49479.94,2375037.12,Pune,In Transit,Pending
+2025-08-22,BuildCo_241,TMT Steel,Reinforcement,34,45086.53,1532942.02,Vizag,Delivered,Paid
+2026-03-05,BuildCo_104,TMT Steel,Reinforcement,42,54002.04,2268085.68,Vizag,Delivered,Pending
+2025-03-20,BuildCo_742,TMT Steel,Reinforcement,38,45406.82,1725459.16,Mumbai,Pending,Pending
+2025-03-23,BuildCo_195,Sand,Aggregates,143,1933.72,276521.96,Pune,Pending,Paid
+2025-11-19,BuildCo_382,Bricks,Masonry,5615,11.05,62045.75,Pune,Delivered,Pending
+2025-10-23,BuildCo_586,Cement,Binding,50,398.45,19922.5,Pune,Delivered,Paid
+2025-05-04,BuildCo_777,Cement,Binding,291,393.17,114412.47,Bangalore,Pending,Paid
+2025-12-02,BuildCo_699,Bricks,Masonry,18321,9.26,169652.46,Mumbai,In Transit,Partial
+2025-12-26,BuildCo_951,Cement,Binding,280,340.08,95222.4,Mumbai,Delivered,Pending
+2025-10-06,BuildCo_257,TMT Steel,Reinforcement,17,52693.83,895795.11,Bangalore,In Transit,Partial
+2025-09-28,BuildCo_320,Cement,Binding,118,334.3,39447.4,Mumbai,Delivered,Paid
+2025-10-08,BuildCo_620,Sand,Aggregates,244,2057.32,501986.08,Vizag,Delivered,Pending
+2025-09-04,BuildCo_995,Cement,Binding,223,383.97,85625.31,Bangalore,In Transit,Pending
+2026-02-05,BuildCo_816,Cement,Binding,426,341.56,145504.56,Bangalore,Delivered,Paid
+2025-03-29,BuildCo_856,Sand,Aggregates,182,1833.23,333647.86,Hyderabad,Delivered,Paid
+2025-07-02,BuildCo_336,Bricks,Masonry,15666,6.46,101202.36,Bangalore,In Transit,Paid
+2026-03-10,BuildCo_446,Sand,Aggregates,238,2321.69,552562.22,Vizag,In Transit,Paid
+2025-12-31,BuildCo_172,Bricks,Masonry,23096,6.09,140654.64,Bangalore,Delivered,Paid
+2026-01-05,BuildCo_840,TMT Steel,Reinforcement,44,54991.58,2419629.52,Vizag,Cancelled,Paid
+2025-11-04,BuildCo_628,TMT Steel,Reinforcement,43,52487.41,2256958.63,Bangalore,Delivered,Pending
+2025-12-02,BuildCo_779,Sand,Aggregates,329,1679.6,552588.4,Mumbai,Delivered,Paid
+2026-01-21,BuildCo_261,TMT Steel,Reinforcement,42,51549.89,2165095.38,Bangalore,Delivered,Partial
+2025-07-30,BuildCo_214,TMT Steel,Reinforcement,14,45316.31,634428.34,Bangalore,Delivered,Paid
+2026-01-13,BuildCo_949,Bricks,Masonry,24898,8.93,222339.14,Hyderabad,Cancelled,Paid
+2025-05-22,BuildCo_736,TMT Steel,Reinforcement,24,53070.4,1273689.6,Hyderabad,Delivered,Pending
+2026-03-10,BuildCo_925,Sand,Aggregates,395,1963.94,775756.3,Mumbai,Delivered,Paid
+2025-04-29,BuildCo_473,TMT Steel,Reinforcement,13,45442.21,590748.73,Bangalore,Delivered,Paid
+2026-01-19,BuildCo_481,Sand,Aggregates,130,2337.77,303910.1,Mumbai,Pending,Partial
+2026-01-09,BuildCo_206,TMT Steel,Reinforcement,49,45821.03,2245230.47,Pune,Delivered,Paid
+2025-06-07,BuildCo_104,Bricks,Masonry,5596,11.14,62339.44,Mumbai,In Transit,Partial
+2025-04-15,BuildCo_803,Concrete,Mixture,257,4203.71,1080353.47,Hyderabad,Pending,Paid
+2025-10-09,BuildCo_502,Concrete,Mixture,422,4627.65,1952868.3,Pune,In Transit,Paid
+2025-09-14,BuildCo_636,Sand,Aggregates,241,1896.15,456972.15,Hyderabad,Delivered,Pending
+2025-12-03,BuildCo_531,Sand,Aggregates,475,2059.93,978466.75,Hyderabad,Pending,Paid
+2025-12-26,BuildCo_286,Bricks,Masonry,21895,8.05,176254.75,Hyderabad,Delivered,Partial
+2025-07-06,BuildCo_799,Concrete,Mixture,412,3790.95,1561871.4,Mumbai,Pending,Pending
+2026-03-01,BuildCo_544,Cement,Binding,283,371.79,105216.57,Hyderabad,Delivered,Pending
+2025-08-27,BuildCo_457,Concrete,Mixture,401,3670.46,1471854.46,Hyderabad,In Transit,Paid
+2026-01-12,BuildCo_902,TMT Steel,Reinforcement,13,53417.78,694431.14,Hyderabad,Delivered,Pending
+2025-07-12,BuildCo_967,TMT Steel,Reinforcement,18,50587.79,910580.22,Mumbai,Delivered,Paid
+2025-11-02,BuildCo_602,Cement,Binding,205,448.48,91938.4,Vizag,Delivered,Paid
+2025-06-11,BuildCo_771,Bricks,Masonry,12751,9.5,121134.5,Pune,Delivered,Paid
+2025-10-27,BuildCo_139,Bricks,Masonry,17447,9.71,169410.37,Pune,In Transit,Paid
+2026-01-05,BuildCo_717,Sand,Aggregates,327,1730.45,565857.15,Mumbai,In Transit,Partial
+2026-03-06,BuildCo_424,Cement,Binding,466,399.77,186292.82,Mumbai,In Transit,Paid
+2025-10-06,BuildCo_913,Bricks,Masonry,9962,6.42,63956.04,Hyderabad,Delivered,Partial
+2026-01-29,BuildCo_631,Concrete,Mixture,122,4984.98,608167.56,Vizag,Pending,Pending
+2026-01-16,BuildCo_329,Concrete,Mixture,88,4507.42,396652.96,Bangalore,Delivered,Pending
+2025-08-19,BuildCo_838,TMT Steel,Reinforcement,44,54476.0,2396944.0,Vizag,Delivered,Paid
+2026-03-05,BuildCo_109,Concrete,Mixture,69,3983.1,274833.9,Hyderabad,In Transit,Paid
+2026-01-30,BuildCo_553,Bricks,Masonry,12005,7.02,84275.1,Pune,Delivered,Pending
+2025-10-28,BuildCo_537,TMT Steel,Reinforcement,8,51397.86,411182.88,Pune,Cancelled,Pending
+2025-09-14,BuildCo_180,Cement,Binding,320,388.12,124198.4,Hyderabad,Delivered,Pending
+2025-08-14,BuildCo_996,Sand,Aggregates,476,2041.33,971673.08,Pune,Delivered,Paid
+2025-06-24,BuildCo_931,Bricks,Masonry,24779,11.04,273560.16,Bangalore,In Transit,Paid
+2025-12-16,BuildCo_129,Bricks,Masonry,15435,11.36,175341.6,Pune,Pending,Paid
+2025-05-08,BuildCo_924,Concrete,Mixture,321,4114.66,1320805.86,Pune,Delivered,Paid
+2025-05-19,BuildCo_825,Concrete,Mixture,389,4692.69,1825456.41,Vizag,Delivered,Paid
+2026-03-05,BuildCo_890,Concrete,Mixture,413,4457.82,1841079.66,Vizag,In Transit,Paid
+2025-08-02,BuildCo_164,Cement,Binding,143,340.9,48748.7,Vizag,Cancelled,Pending
+2026-02-01,BuildCo_398,TMT Steel,Reinforcement,37,46019.72,1702729.64,Hyderabad,Delivered,Paid
+2025-08-08,BuildCo_705,Sand,Aggregates,389,1611.43,626846.27,Pune,Delivered,Paid
+2025-11-23,BuildCo_782,TMT Steel,Reinforcement,41,47664.0,1954224.0,Mumbai,In Transit,Paid
+2025-05-05,BuildCo_334,TMT Steel,Reinforcement,36,50773.04,1827829.44,Vizag,Delivered,Paid
+2025-04-22,BuildCo_945,Cement,Binding,202,336.85,68043.7,Hyderabad,Pending,Partial
+2025-11-21,BuildCo_608,Concrete,Mixture,455,3811.41,1734191.55,Pune,Delivered,Pending
+2025-06-29,BuildCo_697,Sand,Aggregates,120,1940.83,232899.6,Pune,Delivered,Pending
+2025-08-08,BuildCo_115,Bricks,Masonry,5094,6.3,32092.2,Bangalore,Delivered,Pending
+2025-10-14,BuildCo_504,Cement,Binding,224,313.04,70120.96,Mumbai,In Transit,Paid
+2025-09-01,BuildCo_811,Bricks,Masonry,9101,9.55,86914.55,Mumbai,Cancelled,Paid
+2026-02-26,BuildCo_832,Concrete,Mixture,97,3754.93,364228.21,Vizag,Delivered,Paid
+2025-07-29,BuildCo_898,Sand,Aggregates,136,2338.72,318065.92,Hyderabad,In Transit,Pending
+2026-03-06,BuildCo_790,Bricks,Masonry,20141,10.59,213293.19,Hyderabad,Pending,Pending
+2025-11-16,BuildCo_456,Bricks,Masonry,9146,11.49,105087.54,Bangalore,Delivered,Pending
+2025-10-23,BuildCo_780,Bricks,Masonry,12535,10.57,132494.95,Hyderabad,Delivered,Paid
+2026-01-13,BuildCo_204,Cement,Binding,435,423.31,184139.85,Mumbai,Delivered,Pending
+2025-12-02,BuildCo_638,Concrete,Mixture,95,4531.04,430448.8,Hyderabad,Delivered,Paid
+2025-06-11,BuildCo_825,TMT Steel,Reinforcement,30,51080.72,1532421.6,Pune,Pending,Partial
+2025-11-29,BuildCo_339,TMT Steel,Reinforcement,45,54056.26,2432531.7,Bangalore,Delivered,Paid
+2025-12-10,BuildCo_741,Concrete,Mixture,112,3699.73,414369.76,Hyderabad,Pending,Pending
+2025-04-25,BuildCo_397,Cement,Binding,202,368.94,74525.88,Vizag,In Transit,Partial
+2025-11-21,BuildCo_258,Sand,Aggregates,75,1977.86,148339.5,Mumbai,Delivered,Partial
+2026-03-06,BuildCo_657,Cement,Binding,184,377.12,69390.08,Bangalore,Cancelled,Paid
+2025-07-21,BuildCo_596,Concrete,Mixture,231,3527.74,814907.94,Bangalore,Delivered,Paid
+2025-11-04,BuildCo_737,Bricks,Masonry,13391,7.3,97754.3,Mumbai,Pending,Pending
+2025-04-27,BuildCo_256,Sand,Aggregates,55,1612.67,88696.85,Vizag,Delivered,Paid
+2025-04-01,BuildCo_191,Bricks,Masonry,22447,7.29,163638.63,Vizag,Delivered,Partial
+2026-02-11,BuildCo_302,Cement,Binding,137,379.76,52027.12,Hyderabad,Delivered,Pending
+2025-11-21,BuildCo_339,Sand,Aggregates,92,1749.8,160981.6,Mumbai,Delivered,Paid
+2025-06-20,BuildCo_360,Sand,Aggregates,295,1998.53,589566.35,Vizag,Delivered,Pending
+2026-03-04,BuildCo_342,Sand,Aggregates,424,1593.76,675754.24,Pune,Delivered,Pending
+2025-12-28,BuildCo_346,TMT Steel,Reinforcement,25,48398.89,1209972.25,Vizag,Delivered,Pending
+2025-06-17,BuildCo_331,Cement,Binding,166,325.28,53996.48,Vizag,Delivered,Paid
+2025-08-08,BuildCo_658,Sand,Aggregates,87,2397.49,208581.63,Pune,In Transit,Paid
+2025-08-23,BuildCo_155,Concrete,Mixture,439,3755.71,1648756.69,Hyderabad,Pending,Paid
+2025-09-29,BuildCo_972,Sand,Aggregates,61,1998.42,121903.62,Hyderabad,Delivered,Paid
+2025-06-05,BuildCo_864,TMT Steel,Reinforcement,45,50439.57,2269780.65,Mumbai,In Transit,Partial
+2026-03-16,BuildCo_871,Bricks,Masonry,20950,10.23,214318.5,Pune,Delivered,Paid
+2026-02-02,BuildCo_145,Sand,Aggregates,123,1663.71,204636.33,Bangalore,Delivered,Partial
+2025-04-03,BuildCo_984,Concrete,Mixture,308,4575.17,1409152.36,Mumbai,Delivered,Paid
+2025-11-21,BuildCo_878,Cement,Binding,132,361.35,47698.2,Bangalore,Delivered,Partial
+2025-07-20,BuildCo_483,Bricks,Masonry,24586,8.21,201851.06,Bangalore,In Transit,Paid
+2025-09-17,BuildCo_807,Concrete,Mixture,491,4435.04,2177604.64,Pune,Delivered,Pending
+2026-01-23,BuildCo_620,Bricks,Masonry,12567,9.56,120140.52,Bangalore,Delivered,Paid
+2026-01-09,BuildCo_338,Cement,Binding,484,406.03,196518.52,Bangalore,Delivered,Pending
+2025-04-11,BuildCo_193,Cement,Binding,347,388.2,134705.4,Pune,In Transit,Pending
+2026-02-01,BuildCo_935,Sand,Aggregates,434,1855.66,805356.44,Vizag,Delivered,Paid
+2025-12-17,BuildCo_226,TMT Steel,Reinforcement,28,47917.05,1341677.4,Vizag,Cancelled,Paid
+2025-04-28,BuildCo_531,Bricks,Masonry,18988,7.62,144688.56,Mumbai,Delivered,Paid
+2025-11-26,BuildCo_994,TMT Steel,Reinforcement,46,50571.54,2326290.84,Vizag,Delivered,Pending
+2025-08-09,BuildCo_804,TMT Steel,Reinforcement,33,52801.96,1742464.68,Vizag,Delivered,Pending
+2025-05-08,BuildCo_933,Bricks,Masonry,15513,6.91,107194.83,Vizag,Delivered,Pending
+2025-10-31,BuildCo_282,Sand,Aggregates,269,2213.31,595380.39,Mumbai,Delivered,Pending
+2026-02-18,BuildCo_612,Bricks,Masonry,21735,11.02,239519.7,Pune,Delivered,Pending
+2025-09-25,BuildCo_732,Cement,Binding,468,408.81,191323.08,Hyderabad,Delivered,Pending
+2025-07-10,BuildCo_125,Cement,Binding,111,388.2,43090.2,Bangalore,Delivered,Partial
+2025-05-26,BuildCo_966,Bricks,Masonry,22762,7.61,173218.82,Bangalore,Delivered,Pending
+2026-01-19,BuildCo_888,TMT Steel,Reinforcement,11,45310.56,498416.16,Hyderabad,Cancelled,Paid
+2025-12-27,BuildCo_530,Cement,Binding,252,376.63,94910.76,Vizag,Delivered,Partial
+2025-11-08,BuildCo_385,Bricks,Masonry,21815,10.46,228184.9,Vizag,In Transit,Paid
+2026-03-06,BuildCo_496,TMT Steel,Reinforcement,23,48136.96,1107150.08,Hyderabad,In Transit,Paid
+2025-07-08,BuildCo_955,Sand,Aggregates,309,2040.57,630536.13,Mumbai,Delivered,Paid
+2025-10-17,BuildCo_496,Bricks,Masonry,18351,10.77,197640.27,Mumbai,Delivered,Partial
+2025-04-30,BuildCo_323,Cement,Binding,89,347.37,30915.93,Mumbai,Delivered,Paid
+2025-10-21,BuildCo_153,Bricks,Masonry,24795,8.37,207534.15,Pune,Delivered,Partial
+2025-08-28,BuildCo_928,Cement,Binding,311,350.24,108924.64,Vizag,Delivered,Paid
+2025-11-08,BuildCo_619,Concrete,Mixture,127,4244.96,539109.92,Mumbai,In Transit,Paid
+2025-08-01,BuildCo_578,TMT Steel,Reinforcement,40,47067.99,1882719.6,Bangalore,Delivered,Paid
+2025-11-04,BuildCo_483,Sand,Aggregates,248,1804.78,447585.44,Vizag,Delivered,Pending
+2026-01-02,BuildCo_173,Concrete,Mixture,485,4438.3,2152575.5,Hyderabad,Delivered,Paid
+2025-06-02,BuildCo_228,Sand,Aggregates,204,1586.15,323574.6,Mumbai,Delivered,Pending
+2025-08-22,BuildCo_592,Bricks,Masonry,21444,10.9,233739.6,Hyderabad,In Transit,Paid
+2025-08-27,BuildCo_543,Sand,Aggregates,155,1885.28,292218.4,Mumbai,Delivered,Paid
+2025-07-25,BuildCo_357,Concrete,Mixture,352,4927.62,1734522.24,Pune,In Transit,Paid
+2025-11-29,BuildCo_928,Concrete,Mixture,291,4089.84,1190143.44,Hyderabad,Delivered,Pending
+2026-03-02,BuildCo_669,Bricks,Masonry,16748,7.67,128457.16,Bangalore,Delivered,Paid
+2026-03-09,BuildCo_123,Bricks,Masonry,5441,11.78,64094.98,Hyderabad,Delivered,Pending
+2025-08-30,BuildCo_204,Cement,Binding,96,398.37,38243.52,Hyderabad,Pending,Paid
+2025-07-25,BuildCo_380,Concrete,Mixture,63,4017.2,253083.6,Vizag,Delivered,Pending
+2025-10-03,BuildCo_773,Sand,Aggregates,120,1748.43,209811.6,Hyderabad,Delivered,Paid
+2026-03-13,BuildCo_430,Concrete,Mixture,400,3884.57,1553828.0,Hyderabad,Cancelled,Partial
+2025-09-20,BuildCo_345,Bricks,Masonry,12548,8.14,102140.72,Bangalore,Pending,Pending
+2025-09-14,BuildCo_473,TMT Steel,Reinforcement,48,49317.1,2367220.8,Mumbai,Pending,Pending
+2025-09-07,BuildCo_412,Concrete,Mixture,202,4376.09,883970.18,Bangalore,Pending,Paid
+2025-11-02,BuildCo_472,Bricks,Masonry,7185,10.92,78460.2,Mumbai,In Transit,Paid
+2025-05-26,BuildCo_147,Bricks,Masonry,16663,8.33,138802.79,Bangalore,Delivered,Paid
+2025-04-12,BuildCo_350,Bricks,Masonry,16577,7.8,129300.6,Vizag,Delivered,Pending
+2025-04-12,BuildCo_791,Concrete,Mixture,484,3924.31,1899366.04,Vizag,Delivered,Paid
+2025-04-29,BuildCo_457,TMT Steel,Reinforcement,43,49420.85,2125096.55,Hyderabad,Delivered,Paid
+2025-09-22,BuildCo_266,TMT Steel,Reinforcement,20,51744.81,1034896.2,Hyderabad,Delivered,Pending
+2026-01-25,BuildCo_872,Cement,Binding,300,316.31,94893.0,Bangalore,In Transit,Pending
+2025-08-18,BuildCo_711,Concrete,Mixture,230,4855.23,1116702.9,Mumbai,Delivered,Pending
+2025-12-13,BuildCo_852,Cement,Binding,418,426.78,178394.04,Mumbai,In Transit,Paid
+2025-06-08,BuildCo_849,Cement,Binding,430,362.74,155978.2,Vizag,Pending,Pending
+2025-04-21,BuildCo_803,Bricks,Masonry,22613,6.05,136808.65,Mumbai,Delivered,Paid
+2026-01-07,BuildCo_322,Bricks,Masonry,17378,7.99,138850.22,Hyderabad,Cancelled,Partial
+2025-08-09,BuildCo_159,Sand,Aggregates,305,1645.43,501856.15,Bangalore,Pending,Paid
+2025-05-07,BuildCo_816,Sand,Aggregates,248,1514.43,375578.64,Mumbai,Delivered,Paid
+2026-01-17,BuildCo_256,Cement,Binding,320,421.03,134729.6,Pune,Delivered,Paid
+2025-06-18,BuildCo_719,Cement,Binding,52,344.32,17904.64,Vizag,Delivered,Pending
+2025-11-13,BuildCo_139,TMT Steel,Reinforcement,42,47051.86,1976178.12,Mumbai,In Transit,Paid
+2025-10-30,BuildCo_177,Bricks,Masonry,23738,6.41,152160.58,Pune,Delivered,Paid
+2025-12-06,BuildCo_557,Bricks,Masonry,5296,7.46,39508.16,Pune,Delivered,Pending
+2025-09-20,BuildCo_255,TMT Steel,Reinforcement,37,49942.88,1847886.56,Mumbai,In Transit,Pending
+2025-06-23,BuildCo_427,TMT Steel,Reinforcement,26,51352.19,1335156.94,Bangalore,In Transit,Pending
+2025-11-18,BuildCo_978,Cement,Binding,218,307.31,66993.58,Pune,Cancelled,Paid
+2026-01-16,BuildCo_472,Cement,Binding,330,426.05,140596.5,Vizag,Delivered,Paid
+2025-09-12,BuildCo_452,Bricks,Masonry,15419,7.74,119343.06,Mumbai,Delivered,Paid
+2025-04-22,BuildCo_561,TMT Steel,Reinforcement,9,46946.74,422520.66,Pune,In Transit,Partial
+2025-04-29,BuildCo_961,TMT Steel,Reinforcement,23,49309.68,1134122.64,Vizag,Pending,Paid
+2026-01-11,BuildCo_860,Bricks,Masonry,13225,10.02,132514.5,Mumbai,Pending,Paid
+2026-02-03,BuildCo_268,Concrete,Mixture,343,4148.44,1422914.92,Pune,Delivered,Pending
+2025-05-28,BuildCo_690,Cement,Binding,409,426.56,174463.04,Bangalore,Pending,Paid
+2025-12-05,BuildCo_882,Bricks,Masonry,23855,9.72,231870.6,Vizag,Delivered,Paid
+2026-01-03,BuildCo_988,TMT Steel,Reinforcement,7,48645.7,340519.9,Hyderabad,Delivered,Pending
+2025-12-15,BuildCo_973,Concrete,Mixture,244,4099.85,1000363.4,Hyderabad,Pending,Paid
+2026-03-02,BuildCo_982,Sand,Aggregates,277,2336.65,647252.05,Hyderabad,In Transit,Paid
+2025-12-08,BuildCo_164,Concrete,Mixture,58,3778.7,219164.6,Bangalore,Delivered,Paid
+2025-06-28,BuildCo_585,Bricks,Masonry,24622,8.75,215442.5,Pune,Delivered,Paid
+2025-07-13,BuildCo_633,Cement,Binding,425,378.19,160730.75,Mumbai,In Transit,Paid
+2025-06-24,BuildCo_867,Cement,Binding,442,353.87,156410.54,Bangalore,Delivered,Paid
+2025-08-15,BuildCo_380,Sand,Aggregates,196,1840.37,360712.52,Vizag,In Transit,Paid
+2025-05-20,BuildCo_990,Bricks,Masonry,15343,7.02,107707.86,Vizag,Delivered,Pending
+2026-01-22,BuildCo_544,Sand,Aggregates,448,2430.72,1088962.56,Mumbai,Delivered,Paid
+2025-03-31,BuildCo_145,Concrete,Mixture,353,4337.52,1531144.56,Bangalore,Pending,Paid
+2025-04-03,BuildCo_295,Bricks,Masonry,14900,10.46,155854.0,Vizag,Delivered,Paid
+2025-04-29,BuildCo_788,Sand,Aggregates,251,2070.22,519625.22,Hyderabad,Delivered,Paid
+2025-03-23,BuildCo_970,Cement,Binding,246,358.71,88242.66,Mumbai,Delivered,Paid
+2025-03-21,BuildCo_561,Cement,Binding,179,369.33,66110.07,Vizag,Delivered,Partial
+2025-07-20,BuildCo_321,Bricks,Masonry,15541,7.54,117179.14,Pune,Pending,Pending
+2025-11-15,BuildCo_877,Concrete,Mixture,417,4087.8,1704612.6,Pune,Delivered,Paid
+2025-05-24,BuildCo_865,TMT Steel,Reinforcement,6,48562.62,291375.72,Bangalore,In Transit,Paid
+2025-11-28,BuildCo_383,Sand,Aggregates,115,1972.85,226877.75,Pune,Delivered,Paid
+2025-12-13,BuildCo_269,TMT Steel,Reinforcement,43,50706.64,2180385.52,Pune,Delivered,Paid
+2025-04-15,BuildCo_681,Concrete,Mixture,468,3834.68,1794630.24,Hyderabad,In Transit,Paid
+2025-09-30,BuildCo_598,TMT Steel,Reinforcement,18,54568.16,982226.88,Mumbai,Delivered,Paid
+2025-11-03,BuildCo_768,Concrete,Mixture,347,3955.85,1372679.95,Bangalore,In Transit,Paid
+2026-01-14,BuildCo_419,Bricks,Masonry,5935,7.68,45580.8,Pune,Pending,Paid
+2025-10-23,BuildCo_987,TMT Steel,Reinforcement,40,47826.66,1913066.4,Mumbai,Delivered,Paid
+2025-12-24,BuildCo_418,TMT Steel,Reinforcement,21,51500.38,1081507.98,Hyderabad,Pending,Paid
+2026-01-23,BuildCo_519,Concrete,Mixture,484,3963.77,1918464.68,Bangalore,Delivered,Pending
+2025-09-05,BuildCo_381,TMT Steel,Reinforcement,6,54960.84,329765.04,Pune,Delivered,Partial
+2026-02-05,BuildCo_144,Sand,Aggregates,258,1713.1,441979.8,Mumbai,Delivered,Pending
+2025-08-29,BuildCo_352,TMT Steel,Reinforcement,49,47723.5,2338451.5,Vizag,Cancelled,Pending
+2025-06-06,BuildCo_273,Concrete,Mixture,322,4997.96,1609343.12,Vizag,In Transit,Paid
+2025-11-20,BuildCo_251,Sand,Aggregates,301,2441.99,735038.99,Bangalore,Pending,Paid
+2025-08-25,BuildCo_781,Bricks,Masonry,8285,7.53,62386.05,Pune,In Transit,Pending
+2025-09-04,BuildCo_985,TMT Steel,Reinforcement,8,53721.98,429775.84,Mumbai,Delivered,Partial
+2025-06-03,BuildCo_340,Sand,Aggregates,216,1838.25,397062.0,Mumbai,Delivered,Paid
+2025-12-17,BuildCo_959,Bricks,Masonry,18070,8.77,158473.9,Bangalore,Delivered,Paid
+2025-08-20,BuildCo_738,Concrete,Mixture,86,3901.19,335502.34,Hyderabad,Pending,Pending
+2025-08-25,BuildCo_985,Sand,Aggregates,357,1955.29,698038.53,Vizag,Delivered,Paid
+2025-04-23,BuildCo_825,Cement,Binding,73,438.5,32010.5,Hyderabad,Delivered,Pending
+2025-11-23,BuildCo_635,TMT Steel,Reinforcement,43,53705.86,2309351.98,Pune,In Transit,Pending
+2025-08-27,BuildCo_519,Concrete,Mixture,422,4874.4,2056996.8,Vizag,Delivered,Paid
+2025-11-20,BuildCo_581,Sand,Aggregates,402,2283.79,918083.58,Mumbai,Delivered,Paid
+2025-04-28,BuildCo_392,Sand,Aggregates,409,1987.09,812719.81,Mumbai,In Transit,Paid
+2025-09-09,BuildCo_173,Concrete,Mixture,193,3984.22,768954.46,Vizag,Cancelled,Paid
+2025-04-13,BuildCo_366,Concrete,Mixture,442,4757.1,2102638.2,Pune,Pending,Pending
+2025-07-26,BuildCo_340,Sand,Aggregates,432,2358.45,1018850.4,Hyderabad,In Transit,Paid
+2025-07-26,BuildCo_484,TMT Steel,Reinforcement,35,46000.59,1610020.65,Bangalore,Delivered,Pending
+2026-02-05,BuildCo_721,Sand,Aggregates,473,1750.08,827787.84,Pune,Delivered,Pending
+2025-08-15,BuildCo_853,Bricks,Masonry,9617,10.52,101170.84,Mumbai,Pending,Pending
+2025-12-17,BuildCo_511,Concrete,Mixture,291,3800.27,1105878.57,Mumbai,Delivered,Pending
+2026-03-01,BuildCo_988,TMT Steel,Reinforcement,26,53183.46,1382769.96,Mumbai,Pending,Pending
+2025-12-19,BuildCo_746,Cement,Binding,148,351.56,52030.88,Mumbai,Cancelled,Paid
+2025-11-06,BuildCo_898,Bricks,Masonry,8257,6.92,57138.44,Hyderabad,Delivered,Paid
+2026-01-07,BuildCo_145,Cement,Binding,57,386.09,22007.13,Vizag,Delivered,Paid
+2025-09-05,BuildCo_886,TMT Steel,Reinforcement,29,52721.65,1528927.85,Vizag,Delivered,Pending
+2025-10-14,BuildCo_878,Cement,Binding,176,328.75,57860.0,Pune,Delivered,Paid
+2025-04-15,BuildCo_756,Bricks,Masonry,7104,8.63,61307.52,Hyderabad,Delivered,Paid
+2026-03-02,BuildCo_492,Sand,Aggregates,349,2452.14,855796.86,Vizag,Delivered,Paid
+2025-09-27,BuildCo_289,Concrete,Mixture,351,3768.05,1322585.55,Vizag,Delivered,Pending
+2025-05-24,BuildCo_136,Cement,Binding,486,324.57,157741.02,Mumbai,Delivered,Paid
+2026-03-17,BuildCo_841,Sand,Aggregates,150,1726.85,259027.5,Mumbai,Pending,Pending
+2025-05-29,BuildCo_894,Bricks,Masonry,6834,10.67,72918.78,Pune,Delivered,Paid
+2025-10-30,BuildCo_858,Cement,Binding,373,319.39,119132.47,Pune,Cancelled,Paid
+2025-04-01,BuildCo_148,Bricks,Masonry,17172,10.87,186659.64,Hyderabad,Cancelled,Partial
+2026-01-17,BuildCo_790,Sand,Aggregates,313,2073.77,649090.01,Hyderabad,In Transit,Paid
+2025-09-22,BuildCo_333,TMT Steel,Reinforcement,33,54646.32,1803328.56,Vizag,Delivered,Paid
+2025-08-16,BuildCo_788,Sand,Aggregates,126,1877.53,236568.78,Bangalore,Pending,Paid
+2025-05-28,BuildCo_967,Bricks,Masonry,15765,11.75,185238.75,Pune,Pending,Paid
+2025-05-05,BuildCo_849,TMT Steel,Reinforcement,27,48472.86,1308767.22,Vizag,Delivered,Pending
+2025-06-21,BuildCo_417,Sand,Aggregates,170,2431.12,413290.4,Hyderabad,Delivered,Paid
+2025-05-24,BuildCo_893,TMT Steel,Reinforcement,28,48045.75,1345281.0,Pune,Delivered,Paid
+2025-07-18,BuildCo_734,TMT Steel,Reinforcement,50,45592.05,2279602.5,Bangalore,Delivered,Paid
+2025-05-05,BuildCo_897,TMT Steel,Reinforcement,9,46097.16,414874.44,Hyderabad,Delivered,Paid
+2025-12-14,BuildCo_619,Cement,Binding,87,352.31,30650.97,Vizag,Delivered,Paid
+2025-08-24,BuildCo_322,Cement,Binding,299,329.59,98547.41,Hyderabad,In Transit,Paid
+2025-09-08,BuildCo_245,TMT Steel,Reinforcement,45,53752.66,2418869.7,Bangalore,Delivered,Paid
+2025-10-13,BuildCo_162,TMT Steel,Reinforcement,17,46559.88,791517.96,Mumbai,In Transit,Paid
+2026-01-14,BuildCo_771,Sand,Aggregates,283,2062.8,583772.4,Vizag,Delivered,Paid
+2026-03-17,BuildCo_804,Cement,Binding,448,381.85,171068.8,Vizag,Delivered,Pending
+2025-03-22,BuildCo_310,Bricks,Masonry,7391,7.28,53806.48,Hyderabad,In Transit,Paid
+2025-09-15,BuildCo_232,Sand,Aggregates,217,2302.98,499746.66,Bangalore,Delivered,Paid
+2026-01-31,BuildCo_254,Cement,Binding,195,364.66,71108.7,Pune,In Transit,Pending
+2025-06-24,BuildCo_696,Concrete,Mixture,86,4951.95,425867.7,Hyderabad,Delivered,Paid
+2025-04-20,BuildCo_208,Sand,Aggregates,346,2226.71,770441.66,Bangalore,In Transit,Paid
+2025-10-16,BuildCo_278,TMT Steel,Reinforcement,22,45261.41,995751.02,Vizag,Cancelled,Pending
+2025-11-12,BuildCo_957,Cement,Binding,234,366.66,85798.44,Hyderabad,In Transit,Paid
+2025-07-11,BuildCo_641,Sand,Aggregates,357,2242.55,800590.35,Bangalore,Pending,Paid
+2025-08-09,BuildCo_223,Bricks,Masonry,21076,9.09,191580.84,Bangalore,Delivered,Pending
+2025-07-13,BuildCo_654,Cement,Binding,80,326.03,26082.4,Hyderabad,In Transit,Pending
+2025-06-01,BuildCo_298,Sand,Aggregates,343,2494.42,855586.06,Mumbai,Delivered,Paid
+2025-12-14,BuildCo_149,Bricks,Masonry,12785,11.83,151246.55,Mumbai,Delivered,Paid
+2025-08-21,BuildCo_752,Concrete,Mixture,101,3596.56,363252.56,Bangalore,Pending,Paid
+2025-11-18,BuildCo_122,Sand,Aggregates,103,1551.71,159826.13,Hyderabad,Delivered,Paid
+2025-07-10,BuildCo_987,Concrete,Mixture,266,3587.84,954365.44,Hyderabad,Delivered,Pending
+2025-12-03,BuildCo_707,Cement,Binding,166,315.08,52303.28,Pune,Delivered,Pending
+2025-06-10,BuildCo_167,Concrete,Mixture,343,3660.74,1255633.82,Vizag,Delivered,Paid
+2025-10-12,BuildCo_467,Bricks,Masonry,18357,10.72,196787.04,Mumbai,Delivered,Paid
+2025-07-20,BuildCo_645,Concrete,Mixture,318,4025.41,1280080.38,Hyderabad,Pending,Paid
+2025-04-07,BuildCo_979,Sand,Aggregates,309,1816.44,561279.96,Bangalore,Delivered,Paid
+2026-02-27,BuildCo_704,Bricks,Masonry,21288,6.12,130282.56,Pune,Delivered,Paid
+2025-12-15,BuildCo_791,Bricks,Masonry,20572,6.98,143592.56,Bangalore,Cancelled,Paid
+2026-03-12,BuildCo_644,Concrete,Mixture,221,4366.01,964888.21,Pune,Delivered,Paid
+2025-05-27,BuildCo_514,Bricks,Masonry,21382,10.68,228359.76,Pune,In Transit,Paid
+2025-05-21,BuildCo_742,Concrete,Mixture,478,4878.26,2331808.28,Pune,In Transit,Pending
+2025-11-10,BuildCo_613,Bricks,Masonry,13177,10.47,137963.19,Vizag,In Transit,Pending
+2025-11-03,BuildCo_288,Concrete,Mixture,244,3929.03,958683.32,Mumbai,Delivered,Partial
+2025-12-26,BuildCo_598,TMT Steel,Reinforcement,42,50851.62,2135768.04,Mumbai,Delivered,Paid
+2025-12-03,BuildCo_586,Concrete,Mixture,406,3706.1,1504676.6,Vizag,Delivered,Pending
+2025-05-20,BuildCo_248,Bricks,Masonry,22395,11.09,248360.55,Hyderabad,Pending,Pending
+2026-01-22,BuildCo_816,Cement,Binding,231,393.13,90813.03,Pune,In Transit,Paid
+2025-06-03,BuildCo_311,Sand,Aggregates,484,1937.0,937508.0,Vizag,Delivered,Pending
+2026-01-31,BuildCo_317,Sand,Aggregates,376,1867.97,702356.72,Bangalore,Delivered,Paid
+2026-02-11,BuildCo_932,Cement,Binding,429,363.34,155872.86,Bangalore,In Transit,Partial
+2025-09-12,BuildCo_187,Concrete,Mixture,358,4795.9,1716932.2,Vizag,Delivered,Paid
+2025-10-01,BuildCo_381,Bricks,Masonry,6441,9.67,62284.47,Pune,Pending,Paid
+2025-11-23,BuildCo_979,Concrete,Mixture,376,4900.96,1842760.96,Pune,In Transit,Pending
+2025-09-12,BuildCo_984,Bricks,Masonry,19624,6.34,124416.16,Bangalore,Delivered,Pending
+2025-07-25,BuildCo_190,Concrete,Mixture,98,4600.98,450896.04,Bangalore,Delivered,Pending
+2026-01-02,BuildCo_217,TMT Steel,Reinforcement,41,47372.19,1942259.79,Vizag,Delivered,Paid
+2025-06-05,BuildCo_995,Cement,Binding,198,338.34,66991.32,Bangalore,Delivered,Pending
+2025-05-28,BuildCo_635,TMT Steel,Reinforcement,25,49516.45,1237911.25,Bangalore,Delivered,Paid
+2025-06-17,BuildCo_310,Concrete,Mixture,132,4131.86,545405.52,Bangalore,Delivered,Paid
+2025-06-19,BuildCo_284,Concrete,Mixture,180,4193.62,754851.6,Pune,Delivered,Pending
+2025-05-18,BuildCo_241,Concrete,Mixture,260,4077.68,1060196.8,Hyderabad,Pending,Pending
+2026-02-24,BuildCo_823,TMT Steel,Reinforcement,32,52528.83,1680922.56,Pune,Delivered,Paid
+2025-11-05,BuildCo_918,Concrete,Mixture,414,4671.98,1934199.72,Bangalore,Delivered,Paid
+2026-01-19,BuildCo_927,TMT Steel,Reinforcement,29,48143.78,1396169.62,Bangalore,Delivered,Partial
+2025-03-23,BuildCo_269,Bricks,Masonry,17486,9.65,168739.9,Hyderabad,Delivered,Pending
+2025-04-16,BuildCo_662,Sand,Aggregates,341,2169.59,739830.19,Mumbai,Delivered,Paid
+2025-10-26,BuildCo_854,Sand,Aggregates,284,1983.6,563342.4,Pune,Delivered,Paid
+2026-02-25,BuildCo_408,Sand,Aggregates,195,1739.25,339153.75,Hyderabad,In Transit,Partial
+2026-02-28,BuildCo_796,Concrete,Mixture,156,3523.7,549697.2,Hyderabad,Delivered,Partial
+2025-10-28,BuildCo_744,Concrete,Mixture,235,3729.24,876371.4,Pune,In Transit,Paid
+2026-03-08,BuildCo_704,Concrete,Mixture,478,3823.68,1827719.04,Pune,Delivered,Pending
+2026-01-11,BuildCo_745,Cement,Binding,135,360.65,48687.75,Hyderabad,Delivered,Paid
+2025-12-06,BuildCo_861,TMT Steel,Reinforcement,11,48228.05,530508.55,Bangalore,Cancelled,Pending
+2025-05-08,BuildCo_259,Cement,Binding,133,343.34,45664.22,Mumbai,Pending,Paid
+2025-09-24,BuildCo_400,TMT Steel,Reinforcement,27,46779.69,1263051.63,Vizag,Delivered,Pending
+2025-06-23,BuildCo_572,Cement,Binding,354,318.01,112575.54,Vizag,Delivered,Paid
+2025-07-09,BuildCo_892,TMT Steel,Reinforcement,39,46954.49,1831225.11,Pune,Delivered,Paid
+2025-07-28,BuildCo_693,Cement,Binding,410,367.43,150646.3,Hyderabad,Delivered,Paid
+2025-11-16,BuildCo_109,Sand,Aggregates,245,2205.94,540455.3,Mumbai,In Transit,Paid
+2025-06-26,BuildCo_203,Sand,Aggregates,215,2348.94,505022.1,Mumbai,Pending,Paid
+2025-11-04,BuildCo_925,Sand,Aggregates,491,2234.79,1097281.89,Hyderabad,Cancelled,Paid
+2025-10-05,BuildCo_293,Cement,Binding,309,407.08,125787.72,Hyderabad,In Transit,Pending
+2025-06-11,BuildCo_433,Cement,Binding,260,339.5,88270.0,Pune,Pending,Pending
+2025-10-06,BuildCo_586,Concrete,Mixture,278,4370.5,1214999.0,Mumbai,Delivered,Partial
+2025-05-04,BuildCo_978,Bricks,Masonry,15265,9.76,148986.4,Hyderabad,Delivered,Paid
+2025-05-24,BuildCo_332,Concrete,Mixture,410,3896.66,1597630.6,Hyderabad,Delivered,Paid
+2026-01-29,BuildCo_700,Concrete,Mixture,144,4685.01,674641.44,Hyderabad,In Transit,Pending
+2026-02-06,BuildCo_392,Cement,Binding,174,317.14,55182.36,Vizag,Delivered,Pending
+2025-11-09,BuildCo_930,Bricks,Masonry,15277,9.27,141617.79,Mumbai,In Transit,Paid
+2025-09-05,BuildCo_657,Cement,Binding,289,303.14,87607.46,Mumbai,Delivered,Pending
+2025-09-09,BuildCo_302,Bricks,Masonry,11014,10.26,113003.64,Bangalore,Delivered,Partial
+2025-08-05,BuildCo_730,Cement,Binding,314,332.41,104376.74,Pune,Pending,Pending
+2025-06-06,BuildCo_282,Cement,Binding,193,383.37,73990.41,Mumbai,Delivered,Paid
+2025-08-24,BuildCo_150,Cement,Binding,231,408.72,94414.32,Bangalore,Delivered,Paid
+2026-02-22,BuildCo_959,Cement,Binding,318,322.52,102561.36,Pune,Delivered,Paid
+2025-12-13,BuildCo_726,Concrete,Mixture,128,3970.28,508195.84,Bangalore,Delivered,Paid
+2025-05-19,BuildCo_156,Cement,Binding,291,430.49,125272.59,Mumbai,Delivered,Paid
+2025-11-16,BuildCo_205,Sand,Aggregates,440,2389.05,1051182.0,Mumbai,In Transit,Pending
+2025-08-19,BuildCo_592,TMT Steel,Reinforcement,11,53206.1,585267.1,Hyderabad,Delivered,Paid
+2026-03-16,BuildCo_370,Sand,Aggregates,90,1605.77,144519.3,Mumbai,Pending,Paid
+2026-01-12,BuildCo_983,Bricks,Masonry,8442,11.63,98180.46,Mumbai,In Transit,Paid
+2025-10-15,BuildCo_708,TMT Steel,Reinforcement,36,50399.56,1814384.16,Hyderabad,Delivered,Partial
+2025-07-31,BuildCo_651,Sand,Aggregates,87,1980.02,172261.74,Bangalore,In Transit,Partial
+2026-02-02,BuildCo_972,Cement,Binding,75,356.67,26750.25,Bangalore,Delivered,Pending
+2025-05-23,BuildCo_690,Cement,Binding,64,320.72,20526.08,Vizag,Delivered,Paid
+2025-09-22,BuildCo_960,Sand,Aggregates,308,2324.4,715915.2,Hyderabad,Pending,Pending
+2025-06-26,BuildCo_230,Bricks,Masonry,23907,8.19,195798.33,Hyderabad,In Transit,Paid
+2025-08-24,BuildCo_800,Bricks,Masonry,21865,9.87,215807.55,Vizag,Delivered,Paid
+2025-10-26,BuildCo_804,TMT Steel,Reinforcement,26,46502.0,1209052.0,Mumbai,Delivered,Paid
+2025-07-18,BuildCo_216,TMT Steel,Reinforcement,33,50298.28,1659843.24,Pune,Delivered,Paid
+2025-04-17,BuildCo_842,Concrete,Mixture,406,3800.44,1542978.64,Vizag,Delivered,Pending
+2025-12-21,BuildCo_596,Sand,Aggregates,438,1809.62,792613.56,Hyderabad,Delivered,Paid
+2025-07-23,BuildCo_401,Cement,Binding,344,404.12,139017.28,Vizag,Pending,Pending
+2025-12-02,BuildCo_747,Cement,Binding,185,377.16,69774.6,Vizag,Delivered,Pending
+2025-08-27,BuildCo_380,Concrete,Mixture,303,3893.47,1179721.41,Pune,Delivered,Pending
+2025-08-21,BuildCo_919,Bricks,Masonry,5983,7.41,44334.03,Hyderabad,Delivered,Paid
+2025-12-23,BuildCo_152,Bricks,Masonry,10677,8.12,86697.24,Pune,Delivered,Paid
+2025-06-21,BuildCo_792,Cement,Binding,198,431.55,85446.9,Pune,Delivered,Paid
+2025-06-02,BuildCo_676,Concrete,Mixture,91,3838.06,349263.46,Pune,Cancelled,Pending
+2025-09-17,BuildCo_111,Cement,Binding,435,421.05,183156.75,Pune,Delivered,Pending
+2026-02-22,BuildCo_719,Bricks,Masonry,23740,10.41,247133.4,Pune,Pending,Paid
+2025-07-28,BuildCo_480,Bricks,Masonry,18147,11.81,214316.07,Vizag,Delivered,Paid
+2025-09-09,BuildCo_718,Concrete,Mixture,206,3821.49,787226.94,Mumbai,Delivered,Paid
+2026-01-28,BuildCo_543,Concrete,Mixture,150,3505.54,525831.0,Mumbai,Pending,Pending
+2025-07-06,BuildCo_572,Bricks,Masonry,9739,8.06,78496.34,Vizag,Pending,Paid
+2025-12-11,BuildCo_807,Sand,Aggregates,466,2157.32,1005311.12,Bangalore,In Transit,Pending
+2025-11-28,BuildCo_316,Cement,Binding,310,445.66,138154.6,Mumbai,Delivered,Paid
+2025-08-20,BuildCo_933,TMT Steel,Reinforcement,33,53959.04,1780648.32,Hyderabad,In Transit,Partial
+2025-11-16,BuildCo_214,Bricks,Masonry,21165,11.26,238317.9,Pune,Delivered,Paid
+2025-11-18,BuildCo_983,TMT Steel,Reinforcement,42,49508.39,2079352.38,Mumbai,Delivered,Paid
+2025-04-30,BuildCo_965,TMT Steel,Reinforcement,12,45168.67,542024.04,Vizag,Delivered,Paid
+2026-01-16,BuildCo_572,Concrete,Mixture,198,4915.79,973326.42,Pune,Delivered,Paid
+2025-08-03,BuildCo_216,Bricks,Masonry,19392,6.78,131477.76,Bangalore,Delivered,Pending
+2025-11-25,BuildCo_557,Concrete,Mixture,409,3572.15,1461009.35,Mumbai,Delivered,Pending
+2026-02-02,BuildCo_141,TMT Steel,Reinforcement,40,54116.61,2164664.4,Vizag,Pending,Paid
+2025-10-31,BuildCo_698,Bricks,Masonry,16457,9.76,160620.32,Hyderabad,Delivered,Pending
+2025-11-25,BuildCo_984,Sand,Aggregates,390,1604.33,625688.7,Bangalore,In Transit,Pending
+2026-01-08,BuildCo_626,TMT Steel,Reinforcement,41,51403.18,2107530.38,Mumbai,Pending,Paid
+2025-08-29,BuildCo_733,TMT Steel,Reinforcement,46,50112.48,2305174.08,Pune,In Transit,Pending
+2026-03-14,BuildCo_530,Sand,Aggregates,225,1741.18,391765.5,Pune,Delivered,Paid
+2025-11-11,BuildCo_453,Bricks,Masonry,15714,9.28,145825.92,Mumbai,Delivered,Paid
+2026-02-02,BuildCo_639,TMT Steel,Reinforcement,5,52335.91,261679.55,Vizag,Delivered,Pending
+2025-12-01,BuildCo_934,Concrete,Mixture,343,4745.5,1627706.5,Bangalore,Cancelled,Paid
+2025-09-28,BuildCo_249,Cement,Binding,168,383.25,64386.0,Mumbai,Delivered,Pending
+2026-03-11,BuildCo_859,Sand,Aggregates,135,1920.32,259243.2,Mumbai,Delivered,Paid
+2025-12-11,BuildCo_201,Cement,Binding,274,417.85,114490.9,Mumbai,Pending,Pending
+2025-09-13,BuildCo_554,Bricks,Masonry,18766,11.81,221626.46,Hyderabad,Delivered,Paid
+2025-10-30,BuildCo_109,Bricks,Masonry,5028,10.4,52291.2,Mumbai,Cancelled,Paid
+2025-12-20,BuildCo_246,Cement,Binding,94,383.68,36065.92,Pune,Delivered,Paid
+2025-09-30,BuildCo_773,TMT Steel,Reinforcement,27,54635.29,1475152.83,Hyderabad,Delivered,Pending
+2025-05-06,BuildCo_900,Cement,Binding,177,426.06,75412.62,Vizag,In Transit,Pending
+2025-05-27,BuildCo_764,TMT Steel,Reinforcement,14,47132.38,659853.32,Pune,Delivered,Paid
+2025-07-30,BuildCo_112,Sand,Aggregates,173,1510.61,261335.53,Pune,Delivered,Paid
+2025-06-03,BuildCo_890,Cement,Binding,105,411.48,43205.4,Vizag,Delivered,Partial
+2025-05-06,BuildCo_714,TMT Steel,Reinforcement,11,53244.33,585687.63,Hyderabad,In Transit,Paid
+2025-11-15,BuildCo_858,Bricks,Masonry,9335,11.6,108286.0,Pune,Pending,Paid
+2025-05-09,BuildCo_551,Sand,Aggregates,96,1899.58,182359.68,Pune,Delivered,Paid
+2026-01-04,BuildCo_609,Concrete,Mixture,359,4771.12,1712832.08,Vizag,Delivered,Pending
+2026-03-16,BuildCo_788,TMT Steel,Reinforcement,13,45420.01,590460.13,Pune,Delivered,Pending
+2025-09-29,BuildCo_121,Bricks,Masonry,20146,7.86,158347.56,Pune,Pending,Paid
+2025-12-06,BuildCo_459,Concrete,Mixture,207,4721.11,977269.77,Pune,Delivered,Paid
+2025-12-02,BuildCo_826,Concrete,Mixture,497,3607.17,1792763.49,Mumbai,Delivered,Paid
+2025-11-16,BuildCo_597,TMT Steel,Reinforcement,43,51912.29,2232228.47,Hyderabad,Delivered,Paid
+2025-08-24,BuildCo_118,TMT Steel,Reinforcement,47,49951.26,2347709.22,Vizag,Delivered,Pending
+2025-06-27,BuildCo_255,Cement,Binding,355,325.97,115719.35,Bangalore,Delivered,Pending
+2025-09-09,BuildCo_182,Cement,Binding,154,370.8,57103.2,Vizag,Pending,Paid
+2026-02-08,BuildCo_544,Bricks,Masonry,20909,10.35,216408.15,Vizag,Delivered,Paid
+2025-10-19,BuildCo_116,TMT Steel,Reinforcement,31,45582.34,1413052.54,Mumbai,In Transit,Paid
+2025-06-05,BuildCo_979,Concrete,Mixture,182,4127.52,751208.64,Mumbai,Delivered,Paid
+2026-02-21,BuildCo_205,Sand,Aggregates,102,2493.27,254313.54,Hyderabad,Delivered,Paid
+2025-09-08,BuildCo_560,Bricks,Masonry,10299,6.53,67252.47,Vizag,Pending,Pending
+2025-08-28,BuildCo_553,Bricks,Masonry,8977,11.96,107364.92,Bangalore,Delivered,Paid
+2025-05-26,BuildCo_675,Sand,Aggregates,354,2478.42,877360.68,Hyderabad,Delivered,Paid
+2026-03-05,BuildCo_309,Concrete,Mixture,261,4659.35,1216090.35,Vizag,Pending,Paid
+2026-02-22,BuildCo_737,TMT Steel,Reinforcement,17,45780.82,778273.94,Hyderabad,Delivered,Partial
+2026-02-07,BuildCo_844,Concrete,Mixture,75,4713.74,353530.5,Bangalore,In Transit,Partial
+2025-12-27,BuildCo_327,Bricks,Masonry,23809,10.72,255232.48,Bangalore,Cancelled,Paid
+2025-07-18,BuildCo_550,Concrete,Mixture,151,3773.34,569774.34,Pune,Delivered,Pending
+2025-11-03,BuildCo_675,Bricks,Masonry,7816,10.59,82771.44,Pune,Pending,Partial
+2026-03-01,BuildCo_201,Concrete,Mixture,283,4337.8,1227597.4,Hyderabad,Pending,Paid
+2025-07-08,BuildCo_370,TMT Steel,Reinforcement,35,53496.1,1872363.5,Pune,Delivered,Paid
+2025-03-22,BuildCo_542,Cement,Binding,441,357.22,157534.02,Bangalore,Delivered,Paid
+2026-01-02,BuildCo_339,Bricks,Masonry,13356,11.47,153193.32,Vizag,Cancelled,Paid
+2025-04-03,BuildCo_190,Bricks,Masonry,13797,9.33,128726.01,Mumbai,Delivered,Pending
+2025-03-23,BuildCo_406,Bricks,Masonry,11331,7.41,83962.71,Hyderabad,Delivered,Paid
+2025-09-05,BuildCo_547,Bricks,Masonry,9349,9.6,89750.4,Hyderabad,In Transit,Pending
+2025-07-17,BuildCo_414,Sand,Aggregates,232,1754.88,407132.16,Hyderabad,Delivered,Paid
+2025-11-24,BuildCo_875,Sand,Aggregates,234,1607.19,376082.46,Mumbai,Delivered,Pending
+2025-11-05,BuildCo_976,Cement,Binding,369,352.36,130020.84,Hyderabad,Delivered,Pending
+2025-07-14,BuildCo_299,TMT Steel,Reinforcement,26,45496.38,1182905.88,Hyderabad,Pending,Paid
+2025-05-22,BuildCo_488,Bricks,Masonry,19007,8.66,164600.62,Mumbai,Delivered,Paid
+2025-07-29,BuildCo_495,Bricks,Masonry,5447,6.37,34697.39,Hyderabad,Delivered,Pending
+2025-12-23,BuildCo_823,Cement,Binding,420,302.57,127079.4,Vizag,Delivered,Paid
+2025-12-03,BuildCo_895,TMT Steel,Reinforcement,20,46552.6,931052.0,Hyderabad,Delivered,Pending
+2025-09-18,BuildCo_482,Sand,Aggregates,445,2445.22,1088122.9,Pune,Pending,Pending
+2025-07-23,BuildCo_746,TMT Steel,Reinforcement,10,49043.25,490432.5,Mumbai,Delivered,Paid
+2026-03-01,BuildCo_934,Bricks,Masonry,13858,11.31,156733.98,Pune,Delivered,Paid
+2026-02-02,BuildCo_845,Concrete,Mixture,449,4758.31,2136481.19,Vizag,In Transit,Paid
+2025-05-29,BuildCo_469,Cement,Binding,60,359.04,21542.4,Pune,In Transit,Paid
+2026-03-17,BuildCo_406,TMT Steel,Reinforcement,48,53946.75,2589444.0,Mumbai,Delivered,Paid
+2026-01-13,BuildCo_239,Cement,Binding,160,336.86,53897.6,Pune,In Transit,Paid
+2025-06-20,BuildCo_338,Concrete,Mixture,229,4188.54,959175.66,Pune,Cancelled,Paid
+2025-09-19,BuildCo_226,Bricks,Masonry,21184,6.34,134306.56,Vizag,Delivered,Paid
+2025-05-10,BuildCo_749,Concrete,Mixture,307,3826.78,1174821.46,Vizag,Delivered,Pending
+2025-10-06,BuildCo_902,TMT Steel,Reinforcement,45,45657.28,2054577.6,Pune,Delivered,Partial
+2025-11-29,BuildCo_171,TMT Steel,Reinforcement,29,50973.95,1478244.55,Pune,Delivered,Pending
+2026-01-13,BuildCo_154,Concrete,Mixture,440,3554.47,1563966.8,Hyderabad,Delivered,Pending
+2025-07-31,BuildCo_856,Sand,Aggregates,268,2336.39,626152.52,Bangalore,Cancelled,Paid
+2025-10-11,BuildCo_728,Concrete,Mixture,440,4707.43,2071269.2,Vizag,Delivered,Paid
+2025-06-14,BuildCo_607,TMT Steel,Reinforcement,34,49068.45,1668327.3,Mumbai,Pending,Paid
+2025-04-13,BuildCo_310,Cement,Binding,148,392.32,58063.36,Bangalore,In Transit,Pending
+2025-03-29,BuildCo_642,Bricks,Masonry,22734,8.98,204151.32,Vizag,Cancelled,Paid
+2025-07-08,BuildCo_425,TMT Steel,Reinforcement,50,53202.36,2660118.0,Hyderabad,Delivered,Partial
+2026-02-02,BuildCo_301,Concrete,Mixture,482,4913.51,2368311.82,Vizag,Delivered,Partial
+2025-08-30,BuildCo_131,TMT Steel,Reinforcement,36,45704.03,1645345.08,Bangalore,In Transit,Paid
+2026-01-31,BuildCo_857,Concrete,Mixture,120,4994.85,599382.0,Vizag,In Transit,Paid
+2025-11-19,BuildCo_641,Sand,Aggregates,496,2264.13,1123008.48,Mumbai,Pending,Paid
+2025-04-28,BuildCo_783,TMT Steel,Reinforcement,7,52841.64,369891.48,Bangalore,Cancelled,Partial
+2025-08-18,BuildCo_971,Bricks,Masonry,23514,7.91,185995.74,Bangalore,Delivered,Pending
+2025-09-07,BuildCo_315,TMT Steel,Reinforcement,21,52843.98,1109723.58,Mumbai,Delivered,Paid
+2025-09-09,BuildCo_443,Cement,Binding,54,347.71,18776.34,Vizag,Delivered,Paid
+2025-11-24,BuildCo_339,Concrete,Mixture,387,4634.87,1793694.69,Bangalore,In Transit,Paid
+2025-12-30,BuildCo_553,Concrete,Mixture,129,4409.61,568839.69,Vizag,Delivered,Paid
+2025-08-25,BuildCo_115,Cement,Binding,447,421.33,188334.51,Mumbai,In Transit,Paid
+2025-06-02,BuildCo_292,Bricks,Masonry,5902,9.11,53767.22,Hyderabad,Pending,Paid
+2025-07-25,BuildCo_120,Bricks,Masonry,7666,7.33,56191.78,Mumbai,Delivered,Pending
+2025-06-09,BuildCo_374,Bricks,Masonry,13888,8.63,119853.44,Hyderabad,Delivered,Paid
+2025-09-29,BuildCo_955,Concrete,Mixture,383,4955.0,1897765.0,Pune,Pending,Pending
+2025-06-12,BuildCo_888,TMT Steel,Reinforcement,40,54850.2,2194008.0,Pune,In Transit,Pending
+2025-10-28,BuildCo_624,Bricks,Masonry,7913,8.64,68368.32,Hyderabad,Delivered,Paid
+2025-06-14,BuildCo_302,Cement,Binding,195,324.82,63339.9,Mumbai,Delivered,Paid
+2025-10-31,BuildCo_724,TMT Steel,Reinforcement,17,46410.8,788983.6,Bangalore,Cancelled,Paid
+2025-11-27,BuildCo_691,Bricks,Masonry,6725,9.77,65703.25,Vizag,Delivered,Pending
+2025-06-28,BuildCo_201,Sand,Aggregates,158,1746.67,275973.86,Mumbai,In Transit,Paid
+2025-12-08,BuildCo_788,Concrete,Mixture,222,3889.13,863386.86,Bangalore,Delivered,Paid
+2025-06-10,BuildCo_518,TMT Steel,Reinforcement,34,46435.64,1578811.76,Pune,Cancelled,Paid
+2025-11-23,BuildCo_225,TMT Steel,Reinforcement,17,47940.91,814995.47,Bangalore,In Transit,Partial
+2025-08-30,BuildCo_348,Cement,Binding,387,433.95,167938.65,Vizag,Cancelled,Paid
+2025-11-17,BuildCo_806,Cement,Binding,274,415.75,113915.5,Hyderabad,Delivered,Paid
+2025-04-08,BuildCo_895,Sand,Aggregates,377,2414.16,910138.32,Bangalore,Delivered,Paid
+2025-07-21,BuildCo_844,Bricks,Masonry,5776,6.1,35233.6,Pune,Delivered,Partial
+2025-09-14,BuildCo_756,Bricks,Masonry,16992,7.72,131178.24,Bangalore,Delivered,Paid
+2026-03-15,BuildCo_245,Bricks,Masonry,7246,10.77,78039.42,Hyderabad,In Transit,Pending
+2025-08-16,BuildCo_610,Concrete,Mixture,492,3839.91,1889235.72,Bangalore,Delivered,Paid
+2026-01-22,BuildCo_876,Cement,Binding,293,382.44,112054.92,Mumbai,Cancelled,Paid
+2025-05-05,BuildCo_173,Concrete,Mixture,245,4884.22,1196633.9,Bangalore,Delivered,Paid
+2025-11-22,BuildCo_232,Concrete,Mixture,373,4674.59,1743622.07,Pune,Delivered,Paid
+2025-08-20,BuildCo_755,Bricks,Masonry,18726,6.77,126775.02,Vizag,Delivered,Paid
+2025-06-29,BuildCo_192,Sand,Aggregates,473,1891.55,894703.15,Vizag,Delivered,Pending
+2025-04-11,BuildCo_249,Bricks,Masonry,18823,9.11,171477.53,Hyderabad,Delivered,Pending
+2025-03-26,BuildCo_307,TMT Steel,Reinforcement,43,50548.66,2173592.38,Hyderabad,Cancelled,Pending
+2025-11-26,BuildCo_231,Bricks,Masonry,18837,7.29,137321.73,Pune,Delivered,Partial
+2025-05-04,BuildCo_754,Sand,Aggregates,395,1615.91,638284.45,Hyderabad,Pending,Pending
+2025-09-18,BuildCo_640,Bricks,Masonry,7775,8.81,68497.75,Pune,Delivered,Paid
+2025-03-24,BuildCo_761,Bricks,Masonry,20114,9.34,187864.76,Pune,Delivered,Paid
+2026-03-15,BuildCo_479,TMT Steel,Reinforcement,15,46475.4,697131.0,Bangalore,Delivered,Paid
+2025-10-27,BuildCo_518,Concrete,Mixture,453,4541.39,2057249.67,Pune,In Transit,Paid
+2026-01-01,BuildCo_538,Sand,Aggregates,166,2064.47,342702.02,Hyderabad,Delivered,Pending
+2025-06-06,BuildCo_891,Cement,Binding,174,358.92,62452.08,Pune,Delivered,Paid
+2025-05-17,BuildCo_501,Bricks,Masonry,10888,6.77,73711.76,Mumbai,In Transit,Paid
+2026-01-21,BuildCo_782,Concrete,Mixture,214,4016.21,859468.94,Pune,Delivered,Partial
+2026-03-18,BuildCo_670,Concrete,Mixture,315,3576.21,1126506.15,Vizag,Delivered,Paid
+2026-01-26,BuildCo_997,Sand,Aggregates,171,1948.89,333260.19,Pune,Delivered,Pending
+2025-06-29,BuildCo_536,Concrete,Mixture,176,4622.98,813644.48,Bangalore,In Transit,Pending
+2025-04-12,BuildCo_873,Bricks,Masonry,11937,8.04,95973.48,Bangalore,Delivered,Pending
+2025-07-07,BuildCo_294,Sand,Aggregates,109,1575.84,171766.56,Pune,Delivered,Paid
+2026-02-11,BuildCo_689,Sand,Aggregates,102,1902.96,194101.92,Bangalore,Delivered,Paid
+2025-08-09,BuildCo_636,Sand,Aggregates,274,2310.75,633145.5,Bangalore,Delivered,Partial
+2026-01-15,BuildCo_973,Concrete,Mixture,492,4630.27,2278092.84,Mumbai,Delivered,Partial
+2025-03-30,BuildCo_697,Cement,Binding,500,430.67,215335.0,Bangalore,Pending,Paid
+2025-07-25,BuildCo_400,TMT Steel,Reinforcement,10,54428.22,544282.2,Bangalore,In Transit,Pending
+2026-02-18,BuildCo_775,TMT Steel,Reinforcement,40,45118.07,1804722.8,Bangalore,Pending,Paid
+2025-08-03,BuildCo_698,Bricks,Masonry,19077,7.32,139643.64,Bangalore,Delivered,Paid
+2025-09-12,BuildCo_165,Bricks,Masonry,19010,8.39,159493.9,Vizag,Delivered,Paid
+2026-02-17,BuildCo_496,Cement,Binding,112,426.12,47725.44,Pune,Delivered,Paid
+2026-01-09,BuildCo_417,Sand,Aggregates,473,2107.7,996942.1,Bangalore,Delivered,Paid
+2026-03-03,BuildCo_884,Concrete,Mixture,400,4808.93,1923572.0,Vizag,Pending,Pending
+2025-11-16,BuildCo_947,Cement,Binding,364,395.09,143812.76,Bangalore,Delivered,Paid
+2025-04-07,BuildCo_578,Cement,Binding,430,322.34,138606.2,Hyderabad,Delivered,Paid
+2025-03-25,BuildCo_741,Cement,Binding,461,347.27,160091.47,Mumbai,Pending,Paid
+2026-02-24,BuildCo_549,Sand,Aggregates,317,2004.77,635512.09,Bangalore,Delivered,Pending
+2025-12-27,BuildCo_809,Sand,Aggregates,486,2059.74,1001033.64,Hyderabad,Delivered,Paid
+2025-03-19,BuildCo_360,Bricks,Masonry,5556,8.28,46003.68,Hyderabad,Delivered,Pending
+2026-02-28,BuildCo_698,Sand,Aggregates,445,2287.87,1018102.15,Mumbai,Delivered,Paid
+2025-11-23,BuildCo_370,Cement,Binding,393,326.51,128318.43,Mumbai,Delivered,Partial
+2026-02-05,BuildCo_240,Sand,Aggregates,482,1918.36,924649.52,Vizag,Pending,Pending
+2025-11-17,BuildCo_769,Concrete,Mixture,80,4879.3,390344.0,Vizag,Delivered,Pending
+2026-02-19,BuildCo_390,Bricks,Masonry,9011,10.14,91371.54,Hyderabad,In Transit,Pending
+2025-04-15,BuildCo_441,Concrete,Mixture,53,4162.22,220597.66,Hyderabad,Delivered,Paid
+2025-11-01,BuildCo_232,Cement,Binding,255,405.98,103524.9,Bangalore,Delivered,Pending
+2025-12-01,BuildCo_220,Sand,Aggregates,214,1705.71,365021.94,Vizag,Delivered,Pending
+2025-09-10,BuildCo_523,Cement,Binding,489,395.35,193326.15,Bangalore,Delivered,Paid
+2025-04-01,BuildCo_984,TMT Steel,Reinforcement,48,51709.12,2482037.76,Vizag,Delivered,Paid
+2025-06-18,BuildCo_755,Bricks,Masonry,15310,7.04,107782.4,Pune,Delivered,Pending
+2025-11-02,BuildCo_928,Sand,Aggregates,183,2330.43,426468.69,Hyderabad,In Transit,Pending
+2025-12-02,BuildCo_574,Cement,Binding,449,309.53,138978.97,Hyderabad,Delivered,Pending
+2025-09-16,BuildCo_174,Cement,Binding,387,307.38,118956.06,Bangalore,Delivered,Paid
+2026-01-27,BuildCo_645,Concrete,Mixture,123,4012.06,493483.38,Pune,Pending,Paid
+2025-03-26,BuildCo_629,Concrete,Mixture,438,3836.79,1680514.02,Vizag,Delivered,Paid
+2025-06-09,BuildCo_413,Bricks,Masonry,20984,11.21,235230.64,Pune,In Transit,Paid
+2026-01-16,BuildCo_370,Concrete,Mixture,491,4301.17,2111874.47,Hyderabad,Delivered,Pending
+2025-07-17,BuildCo_731,Cement,Binding,100,415.91,41591.0,Bangalore,Cancelled,Pending
+2025-06-03,BuildCo_588,Concrete,Mixture,233,4085.8,951991.4,Vizag,Pending,Partial
+2025-10-23,BuildCo_288,Bricks,Masonry,16791,8.53,143227.23,Hyderabad,In Transit,Pending
+2025-06-10,BuildCo_546,Bricks,Masonry,14949,8.13,121535.37,Vizag,In Transit,Pending
+2026-02-08,BuildCo_744,Concrete,Mixture,99,3814.34,377619.66,Mumbai,Delivered,Paid
+2026-01-02,BuildCo_402,Sand,Aggregates,370,1518.01,561663.7,Vizag,In Transit,Pending
+2025-11-30,BuildCo_346,Cement,Binding,374,443.47,165857.78,Bangalore,In Transit,Paid
+2025-06-15,BuildCo_984,Cement,Binding,201,380.97,76574.97,Bangalore,Delivered,Paid
+2025-05-29,BuildCo_689,Cement,Binding,428,344.13,147287.64,Bangalore,Delivered,Partial
+2025-08-10,BuildCo_298,Cement,Binding,370,436.18,161386.6,Pune,Delivered,Paid
+2025-11-05,BuildCo_180,Concrete,Mixture,189,3693.93,698152.77,Bangalore,Cancelled,Partial
+2026-03-09,BuildCo_891,Bricks,Masonry,22362,10.12,226303.44,Vizag,Delivered,Pending
+2025-12-25,BuildCo_963,Sand,Aggregates,167,1904.98,318131.66,Mumbai,In Transit,Paid
+2025-12-14,BuildCo_157,Cement,Binding,135,318.55,43004.25,Vizag,Delivered,Paid
+2025-07-31,BuildCo_567,Concrete,Mixture,500,4271.74,2135870.0,Bangalore,Pending,Paid
+2025-12-26,BuildCo_379,Bricks,Masonry,14538,8.89,129242.82,Mumbai,Delivered,Paid
+2025-05-15,BuildCo_787,TMT Steel,Reinforcement,13,45861.81,596203.53,Bangalore,Delivered,Paid
+2025-12-18,BuildCo_168,Bricks,Masonry,7682,10.95,84117.9,Vizag,Pending,Paid
+2025-08-03,BuildCo_541,Concrete,Mixture,413,4441.52,1834347.76,Hyderabad,In Transit,Paid
+2025-10-25,BuildCo_260,Bricks,Masonry,23060,8.41,193934.6,Mumbai,In Transit,Pending
+2025-05-30,BuildCo_537,Concrete,Mixture,402,4570.32,1837268.64,Hyderabad,Delivered,Partial
+2026-03-11,BuildCo_647,Bricks,Masonry,20745,11.37,235870.65,Hyderabad,In Transit,Pending
+2026-01-02,BuildCo_768,Sand,Aggregates,409,2090.67,855084.03,Hyderabad,Delivered,Pending
+2025-08-30,BuildCo_515,Concrete,Mixture,122,3620.79,441736.38,Pune,In Transit,Paid
+2026-01-28,BuildCo_279,Cement,Binding,335,390.25,130733.75,Pune,In Transit,Paid
+2025-09-10,BuildCo_129,Cement,Binding,277,383.59,106254.43,Pune,In Transit,Pending
+2025-07-22,BuildCo_914,Concrete,Mixture,115,4361.77,501603.55,Pune,Delivered,Paid
+2026-03-08,BuildCo_343,Concrete,Mixture,129,3695.4,476706.6,Mumbai,Delivered,Paid
+2025-05-27,BuildCo_667,Sand,Aggregates,494,1885.81,931590.14,Hyderabad,Pending,Partial
+2025-04-21,BuildCo_780,Cement,Binding,117,360.97,42233.49,Mumbai,Delivered,Pending
+2025-05-26,BuildCo_410,Cement,Binding,288,358.6,103276.8,Mumbai,In Transit,Paid
+2025-07-04,BuildCo_252,Bricks,Masonry,20742,6.83,141667.86,Hyderabad,Delivered,Paid
+2025-06-07,BuildCo_388,TMT Steel,Reinforcement,30,51491.07,1544732.1,Mumbai,Cancelled,Paid
+2025-04-20,BuildCo_157,Concrete,Mixture,149,3815.0,568435.0,Mumbai,Delivered,Paid
+2025-10-08,BuildCo_341,Concrete,Mixture,480,4078.54,1957699.2,Hyderabad,Delivered,Pending
+2025-05-07,BuildCo_371,Concrete,Mixture,332,3749.86,1244953.52,Bangalore,Delivered,Paid
+2025-06-07,BuildCo_986,Sand,Aggregates,381,2147.23,818094.63,Hyderabad,Cancelled,Pending
+2025-08-16,BuildCo_900,Bricks,Masonry,14151,6.8,96226.8,Vizag,Delivered,Pending
+2026-01-25,BuildCo_695,Bricks,Masonry,22207,11.77,261376.39,Pune,Delivered,Paid
+2025-06-08,BuildCo_477,Cement,Binding,336,441.84,148458.24,Vizag,Pending,Pending
+2025-12-15,BuildCo_504,Concrete,Mixture,70,4559.42,319159.4,Vizag,Delivered,Pending
+2025-05-08,BuildCo_672,TMT Steel,Reinforcement,7,52888.94,370222.58,Vizag,In Transit,Paid
+2026-02-16,BuildCo_802,TMT Steel,Reinforcement,22,54258.55,1193688.1,Vizag,In Transit,Paid
+2025-04-26,BuildCo_478,Cement,Binding,207,314.42,65084.94,Mumbai,Delivered,Paid
+2025-05-26,BuildCo_954,Cement,Binding,138,325.96,44982.48,Pune,In Transit,Paid
+2025-03-21,BuildCo_492,TMT Steel,Reinforcement,48,48077.85,2307736.8,Pune,Delivered,Paid
+2025-12-20,BuildCo_678,TMT Steel,Reinforcement,26,48965.54,1273104.04,Hyderabad,Cancelled,Paid
+2025-11-29,BuildCo_493,Concrete,Mixture,59,4133.01,243847.59,Vizag,Delivered,Paid
+2025-06-23,BuildCo_356,Cement,Binding,420,375.84,157852.8,Bangalore,In Transit,Paid
+2025-12-07,BuildCo_268,Bricks,Masonry,9230,9.57,88331.1,Mumbai,Pending,Pending
+2026-03-10,BuildCo_534,Bricks,Masonry,20238,10.86,219784.68,Mumbai,Cancelled,Pending
+2025-10-22,BuildCo_606,TMT Steel,Reinforcement,8,49839.4,398715.2,Hyderabad,Pending,Pending
+2025-09-16,BuildCo_975,Concrete,Mixture,146,3880.16,566503.36,Hyderabad,Delivered,Paid
+2026-01-12,BuildCo_585,Concrete,Mixture,330,4064.05,1341136.5,Mumbai,Delivered,Partial
